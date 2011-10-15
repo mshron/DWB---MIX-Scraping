@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 from urllib2 import urlopen
 from lxml.html import fromstring
+from lxml.etree import tostring
 
 URL='http://www.bancomoc.mz/Instituicoes_en.aspx?id=GINS0017&ling=en'
 
@@ -13,10 +14,10 @@ def main():
     raise AlignmentError
   while len(organizations)>0:
     rows.append({
-      "organization":tostring(organizations.pop()).split('<br/>')[0]
-    , "address":addresses.pop()
+      "organization":tostring(organizations.pop()).split('<br/>')[1]
+    , "address":addresses.pop().text
     })
-  print xml
+  print rows
 
 class AlignmentError(Exception):
   pass
@@ -35,4 +36,4 @@ def get_links(xml,xpath='//a',textkey="text",extra={}):
       links.append(row)
   return links
 
-#main()
+main()
