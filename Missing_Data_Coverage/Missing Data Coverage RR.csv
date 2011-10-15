@@ -1,0 +1,224 @@
+Country,Data Source: Organization Name,Data Source: Organization Name (group),Count,Number of Providers,Number of Branches,Number of Clients,Number of Loans,Number of Deposit Accounts,Gross Loan Portfolio,Total Assets,Total Deposits,GLP USD,Assets USD,Deposits USD,Country Level,Data Source Level,Data Source Group Level,Country Level,Data Source Level,Data Source Group Level,Country Level,Data Source Level,Data Source Group Level
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Extent of Missing Data (0=No Missing Data),,,,,,,,,,,Extent of Missing Data,,,Average Missing Data Points                                                   (0=No Missing; 10=All Missing)                                                          High: 8-10; Medium: 4-7; Low: 0-3,,,Maximum Missing Data Points                                     (0=No Missing; 10=All Missing),,
+Angola,MIX,MIX,2,0,1,0,0,1,0,0,1,0,0,0,Medium,Low,Low,6.9355,3.6339,3.63393,10,10,10
+Angola,Microcapital,Research and news,1,0,1,0,0,1,1,1,1,0,1,1,Medium,Medium,Medium,6.9355,7,4.19298,10,7,7
+Angola,Banco Sol - AO,Self-reported,1,0,1,0,0,1,0,1,1,0,1,1,Medium,Medium,Medium,6.9355,6,5.3,10,6,6
+Angola,WSBI,WSBI,1,0,1,1,1,1,1,1,1,1,1,1,Medium,Medium,Medium,6.9355,7.6968,7.69677,10,10,10
+Benin,ALAFIA,Networks,23,0,19,11,11,23,11,11,11,12,12,12,High,High,Medium,8.2487,8.6992,6.47895,10,10,10
+Benin,MIX,MIX,4,0,2,0,0,0,0,0,0,0,0,1,High,Low,Low,8.2487,3.6339,3.63393,10,10,10
+Benin,GSMA,GSMA,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.2487,9.826,9.82601,10,10,10
+Benin,INAFI,Networks,1,0,1,0,0,0,0,1,0,0,1,0,High,Low,Medium,8.2487,3.4615,6.47895,10,6,10
+Benin,"Crystal Clear Software, Ltd.",Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.2487,10,9.9505,10,10,10
+Benin,WOCCU,WOCCU,1,0,1,0,0,0,0,1,0,0,0,0,High,Low,Low,8.2487,2.4872,2.48718,10,5,5
+Benin,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,High,Medium,Medium,8.2487,7.6968,7.69677,10,10,10
+Botswana,Finmark Trust,Research and news,4,0,4,0,0,0,2,4,0,0,4,3,Medium,Low,Medium,7.3636,3.8,4.19298,10,5,7
+Botswana,GSMA,GSMA,2,0,2,2,2,2,2,2,2,2,2,2,Medium,High,High,7.3636,9.826,9.82601,10,10,10
+Botswana,WSBI,WSBI,1,0,0,1,1,1,1,0,1,1,0,1,Medium,Medium,Medium,7.3636,7.6968,7.69677,10,10,10
+Burkina Faso,DMF,Regulators,15,0,15,15,15,15,15,15,15,15,15,15,High,High,Medium,8.5844,10,4.79699,10,10,10
+Burkina Faso,APIM BF,Networks,10,0,0,0,0,10,0,10,0,0,10,0,High,Low,Medium,8.5844,3,6.47895,10,3,10
+Burkina Faso,MIX,MIX,1,0,0,0,0,0,0,0,0,0,0,0,High,Low,Low,8.5844,3.6339,3.63393,10,10,10
+Burkina Faso,WOCCU,WOCCU,1,0,1,0,0,0,0,1,0,0,1,0,High,Low,Low,8.5844,2.4872,2.48718,10,5,5
+Burkina Faso,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,High,Medium,Medium,8.5844,7.6968,7.69677,10,10,10
+Burundi,GSMA,GSMA,1,0,1,0,1,1,1,1,1,1,1,1,Medium,High,High,7.5,9.826,9.82601,10,10,10
+Burundi,MIX,MIX,1,0,0,0,0,0,0,0,0,0,0,0,Medium,Low,Low,7.5,3.6339,3.63393,10,10,10
+Burundi,AFMIN,Networks,1,0,1,0,0,0,0,1,0,0,1,0,Medium,Low,Medium,7.5,3.7143,6.47895,10,5,10
+Burundi,Aquadev,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,7.5,10,9.9505,10,10,10
+Cameroon,MIX,MIX,11,0,4,2,2,2,1,4,2,0,4,1,High,Low,Low,8.5155,3.6339,3.63393,10,10,10
+Cameroon,"Crystal Clear Software, Ltd.",Technology Providers,3,0,3,3,3,3,3,3,3,3,3,3,High,High,High,8.5155,10,9.9505,10,10,10
+Cameroon,GSMA,GSMA,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.5155,9.826,9.82601,10,10,10
+Cameroon,Microcredit Summit,Microcredit Summit,1,0,1,0,0,0,1,1,1,0,1,0,High,Medium,Medium,8.5155,5.5813,5.58131,10,7,7
+Cameroon,INAFI,Networks,1,0,1,0,0,0,0,1,0,0,1,0,High,Low,Medium,8.5155,3.4615,6.47895,10,6,10
+Cameroon,CGF,Self-reported,1,0,0,0,0,1,0,1,1,0,1,1,High,Medium,Medium,8.5155,5,5.3,10,5,6
+Cameroon,Octopus Microfinance,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.5155,10,9.9505,10,10,10
+Cameroon,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,High,Low,Low,8.5155,2.4872,2.48718,10,5,5
+Cameroon,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,High,Medium,Medium,8.5155,7.6968,7.69677,10,10,10
+Cape Verde,WSBI,WSBI,2,0,1,1,2,1,2,1,1,2,1,1,Medium,Medium,Medium,7.4615,7.6968,7.69677,9,10,10
+Central African Republic,MIX,MIX,1,0,0,0,0,0,0,0,0,0,0,0,Medium,Low,Low,4.25,3.6339,3.63393,5,10,10
+Central African Republic,CEMAC,Regulators,1,0,1,0,0,0,0,1,0,0,1,0,Medium,Low,Medium,4.25,3,4.79699,5,3,10
+Chad,CEMAC,Regulators,5,0,5,0,0,0,0,5,0,0,5,0,Low,Low,Medium,2.7778,3,4.79699,3,3,10
+Chad,MIX,MIX,3,0,1,0,0,1,0,0,1,0,0,0,Low,Low,Low,2.7778,3.6339,3.63393,3,10,10
+Comoros,Aquadev,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.3846,10,9.9505,10,10,10
+Comoros,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,High,Medium,Medium,8.3846,7.6968,7.69677,10,10,10
+"Congo, Democratic Republic of the",FPM,Donors and funds,226,0,226,13,13,18,17,226,25,11,226,21,Medium,Medium,Medium,4.965,4.2915,4.32342,10,10,10
+"Congo, Democratic Republic of the",Microcredit Summit,Microcredit Summit,8,0,8,0,0,0,8,8,8,0,8,0,Medium,Medium,Medium,4.965,5.5813,5.58131,10,7,7
+"Congo, Democratic Republic of the",MIX,MIX,5,0,3,0,0,0,0,1,1,0,1,0,Medium,Low,Low,4.965,3.6339,3.63393,10,10,10
+"Congo, Democratic Republic of the",Octopus Microfinance,Technology Providers,2,0,2,2,2,2,2,2,2,2,2,2,Medium,High,High,4.965,10,9.9505,10,10,10
+"Congo, Democratic Republic of the",GSMA,GSMA,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,4.965,9.826,9.82601,10,10,10
+"Congo, Democratic Republic of the",Aquadev,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,4.965,10,9.9505,10,10,10
+"Congo, Democratic Republic of the","Crystal Clear Software, Ltd.",Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,4.965,10,9.9505,10,10,10
+"Congo, Democratic Republic of the",Sigma Data & Computers,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,4.965,10,9.9505,10,10,10
+"Congo, Republic of the",MIX,MIX,4,0,1,0,0,0,0,0,1,0,0,0,High,Low,Low,9.5,3.6339,3.63393,10,10,10
+Cote d'Ivoire (Ivory Coast),GSMA,GSMA,2,0,2,1,2,2,2,2,2,2,2,2,High,High,High,8.2727,9.826,9.82601,10,10,10
+Cote d'Ivoire (Ivory Coast),Microcredit Summit,Microcredit Summit,1,0,1,0,0,0,1,1,1,0,1,0,High,Medium,Medium,8.2727,5.5813,5.58131,10,7,7
+Cote d'Ivoire (Ivory Coast),AFMIN,Networks,1,0,1,0,0,0,0,1,0,0,1,0,High,Low,Medium,8.2727,3.7143,6.47895,10,5,10
+Cote d'Ivoire (Ivory Coast),ECLOF,Networks,1,0,1,0,0,1,0,1,1,0,1,1,High,Medium,Medium,8.2727,5.2308,6.47895,10,6,10
+Cote d'Ivoire (Ivory Coast),Kredits,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.2727,10,9.9505,10,10,10
+Cote d'Ivoire (Ivory Coast),WOCCU,WOCCU,1,0,1,0,0,0,0,1,0,0,1,0,High,Low,Low,8.2727,2.4872,2.48718,10,5,5
+Cote d'Ivoire (Ivory Coast),WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,High,Medium,Medium,8.2727,7.6968,7.69677,10,10,10
+Djibouti,GSMA,GSMA,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,10,9.826,9.82601,10,10,10
+Eritrea,Microcredit Summit,Microcredit Summit,1,0,1,0,0,1,1,1,1,0,1,1,Medium,Medium,Medium,5.4,5.5813,5.58131,7,7,7
+Eritrea,SMCP,Self-reported,1,0,0,0,0,1,0,1,0,0,1,0,Medium,Low,Medium,5.4,3,5.3,7,3,6
+Ethiopia,AEMFI,Networks,25,0,25,0,0,25,0,0,0,0,0,0,Low,Low,Medium,3.1957,2,6.47895,5,2,10
+Ethiopia,MIX,MIX,3,0,0,1,1,1,0,1,0,0,1,0,Low,Low,Low,3.1957,3.6339,3.63393,5,10,10
+Ethiopia,Microcredit Summit,Microcredit Summit,1,0,1,0,0,0,1,1,1,0,1,0,Low,Medium,Medium,3.1957,5.5813,5.58131,5,7,7
+Ethiopia,AFMIN,Networks,1,0,1,0,0,0,0,1,0,0,1,0,Low,Low,Medium,3.1957,3.7143,6.47895,5,5,10
+Ethiopia,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,Low,Low,Low,3.1957,2.4872,2.48718,5,5,5
+Ethiopia,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,Low,Medium,Medium,3.1957,7.6968,7.69677,5,10,10
+Gabon,DGE,Regulators,1,0,1,1,1,1,0,1,0,0,1,0,High,Medium,Medium,8.5,6,4.79699,10,6,10
+Gabon,WSBI,WSBI,1,0,1,1,1,1,1,1,1,1,1,1,High,Medium,Medium,8.5,7.6968,7.69677,10,10,10
+"Gambia, The",MIX,MIX,2,0,0,0,0,0,0,0,0,0,0,0,Medium,Low,Low,7.6087,3.6339,3.63393,10,10,10
+"Gambia, The",Microcredit Summit,Microcredit Summit,2,0,2,0,0,1,2,2,2,0,2,1,Medium,Medium,Medium,7.6087,5.5813,5.58131,10,7,7
+"Gambia, The","Crystal Clear Software, Ltd.",Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,7.6087,10,9.9505,10,10,10
+"Gambia, The",WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,Medium,Low,Low,7.6087,2.4872,2.48718,10,5,5
+Ghana,BoG,Regulators,148,0,148,148,148,148,0,0,0,1,1,1,Medium,Medium,Medium,6.0068,4.0353,4.79699,10,7,10
+Ghana,MIX,MIX,20,0,3,2,2,6,0,4,4,0,4,8,Medium,Low,Low,6.0068,3.6339,3.63393,10,10,10
+Ghana,"Crystal Clear Software, Ltd.",Technology Providers,9,0,9,9,9,9,9,9,9,9,9,9,Medium,High,High,6.0068,10,9.9505,10,10,10
+Ghana,Microcredit Summit,Microcredit Summit,7,0,7,0,0,2,7,7,7,0,7,2,Medium,Medium,Medium,6.0068,5.5813,5.58131,10,7,7
+Ghana,GSMA,GSMA,4,0,4,4,4,4,4,4,4,4,4,4,Medium,High,High,6.0068,9.826,9.82601,10,10,10
+Ghana,ECLOF,Networks,1,0,0,0,0,1,0,1,1,0,1,1,Medium,Medium,Medium,6.0068,5.2308,6.47895,10,6,10
+Ghana,GCSCA,Networks,1,0,1,0,1,0,1,1,0,1,1,0,Medium,Medium,Medium,6.0068,6,6.47895,10,6,10
+Ghana,INAFI,Networks,1,0,1,0,0,0,0,1,0,0,1,0,Medium,Low,Medium,6.0068,3.4615,6.47895,10,6,10
+Ghana,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,Medium,Low,Low,6.0068,2.4872,2.48718,10,5,5
+Ghana,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,Medium,Medium,Medium,6.0068,7.6968,7.69677,10,10,10
+Guinea,WSBI,WSBI,1,0,1,1,1,1,1,1,1,1,1,1,Medium,Medium,Medium,5.5833,7.6968,7.69677,10,10,10
+Guinea-Bissau,AP-SFD Guinée-Bissau,Networks,4,0,0,0,0,4,0,4,0,0,4,0,Medium,Low,Medium,5.4375,3,6.47895,10,3,10
+Guinea-Bissau,GSMA,GSMA,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,5.4375,9.826,9.82601,10,10,10
+Guinea-Bissau,MIX,MIX,1,0,1,0,0,0,0,0,1,0,0,0,Medium,Low,Low,5.4375,3.6339,3.63393,10,10,10
+Guinea-Bissau,WOCCU,WOCCU,1,0,1,0,0,0,0,1,0,0,1,0,Medium,Low,Low,5.4375,2.4872,2.48718,10,5,5
+Kenya,MIX,MIX,23,0,5,2,2,2,0,1,4,1,1,1,High,Low,Low,9.0825,3.6339,3.63393,10,10,10
+Kenya,"Crystal Clear Software, Ltd.",Technology Providers,8,0,8,8,8,8,8,8,8,8,8,8,High,High,High,9.0825,10,9.9505,10,10,10
+Kenya,GSMA,GSMA,5,0,5,4,5,5,5,5,5,5,5,5,High,High,High,9.0825,9.826,9.82601,10,10,10
+Kenya,Neptune Software,Technology Providers,5,0,5,5,5,5,5,5,5,5,5,5,High,High,High,9.0825,10,9.9505,10,10,10
+Kenya,Craft Silicon,Technology Providers,4,0,4,4,4,4,4,4,4,4,4,4,High,High,High,9.0825,10,9.9505,10,10,10
+Kenya,Microcredit Summit,Microcredit Summit,2,0,2,0,0,1,2,2,2,0,2,1,High,Medium,Medium,9.0825,5.5813,5.58131,10,7,7
+Kenya,INAFI,Networks,2,0,2,0,0,0,0,2,0,0,2,0,High,Low,Medium,9.0825,3.4615,6.47895,10,6,10
+Kenya,AUXFAM,Technology Providers,2,0,2,2,2,2,2,2,2,2,2,2,High,High,High,9.0825,10,9.9505,10,10,10
+Kenya,FAO-GTZ MicroBanking System,Technology Providers,1,0,0,1,1,1,1,1,1,1,1,1,High,High,High,9.0825,9.3571,9.9505,10,10,10
+Kenya,Mifos,Technology Providers,1,0,0,0,0,1,1,1,1,0,1,1,High,Medium,High,9.0825,6,9.9505,10,6,10
+Kenya,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,High,Low,Low,9.0825,2.4872,2.48718,10,5,5
+Lesotho,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,Medium,Low,Low,4.2857,2.4872,2.48718,5,5,5
+Lesotho,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,Medium,Medium,Medium,4.2857,7.6968,7.69677,5,10,10
+Liberia,MIX,MIX,3,0,0,0,0,0,0,0,0,0,0,1,Medium,Low,Low,5.6842,3.6339,3.63393,9,10,10
+Liberia,AccessHolding,Donors and funds,1,0,0,0,0,1,0,1,0,0,1,0,Medium,Low,Medium,5.6842,3,4.32342,9,3,10
+Liberia,GSMA,GSMA,1,0,1,0,1,1,1,1,1,1,1,1,Medium,High,High,5.6842,9.826,9.82601,9,10,10
+Liberia,WOCCU,WOCCU,1,0,1,0,0,0,1,1,1,0,1,0,Medium,Low,Low,5.6842,2.4872,2.48718,9,5,5
+Madagascar,GSMA,GSMA,3,0,3,3,3,3,3,3,3,3,3,3,Medium,High,High,7.2188,9.826,9.82601,10,10,10
+Madagascar,MIX,MIX,3,0,2,0,0,0,0,0,2,0,0,1,Medium,Low,Low,7.2188,3.6339,3.63393,10,10,10
+Madagascar,CNMF,Regulators,1,0,0,0,0,0,0,1,0,0,1,0,Medium,Low,Medium,7.2188,2,4.79699,10,2,10
+Madagascar,WSBI,WSBI,1,0,0,1,1,1,1,0,1,1,0,1,Medium,Medium,Medium,7.2188,7.6968,7.69677,10,10,10
+Malawi,MAMN,Networks,16,0,16,0,0,2,0,16,1,2,16,5,Medium,Low,Medium,5.5636,3.8966,6.47895,10,6,10
+Malawi,GSMA,GSMA,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,5.5636,9.826,9.82601,10,10,10
+Malawi,MIX,MIX,1,0,1,0,0,0,0,0,1,0,0,0,Medium,Low,Low,5.5636,3.6339,3.63393,10,10,10
+Malawi,"Crystal Clear Software, Ltd.",Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,5.5636,10,9.9505,10,10,10
+Malawi,FAO-GTZ MicroBanking System,Technology Providers,1,0,0,1,1,1,1,1,1,1,1,1,Medium,High,High,5.5636,9.3571,9.9505,10,10,10
+Malawi,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,Medium,Low,Low,5.5636,2.4872,2.48718,10,5,5
+Mali,MEF (Mali),Regulators,53,0,53,1,1,2,0,0,0,0,0,0,Medium,Low,Medium,6.3099,1.2456,4.79699,10,4,10
+Mali,MIX,MIX,2,0,2,0,0,0,0,0,2,0,0,0,Medium,Low,Low,6.3099,3.6339,3.63393,10,10,10
+Mali,DID,Other credit union networks,2,0,0,0,0,0,0,0,0,0,0,0,Medium,Low,Low,6.3099,.,.,10,0,0
+Mali,Kredits,Technology Providers,2,0,2,2,2,2,2,2,2,2,2,2,Medium,High,High,6.3099,10,9.9505,10,10,10
+Mali,GSMA,GSMA,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,6.3099,9.826,9.82601,10,10,10
+Mali,Aquadev,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,6.3099,10,9.9505,10,10,10
+Mali,Octopus Microfinance,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,6.3099,10,9.9505,10,10,10
+Mali,WSBI,WSBI,1,0,1,1,1,1,1,1,1,1,1,1,Medium,Medium,Medium,6.3099,7.6968,7.69677,10,10,10
+Mauritania,WSBI,WSBI,1,0,1,1,1,1,1,1,1,1,1,1,High,Medium,Medium,10,7.6968,7.69677,10,10,10
+Mauritius,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,Low,Low,Low,1,2.4872,2.48718,1,5,5
+Mozambique,AMOMIF,Networks,7,0,7,0,0,1,0,7,1,0,7,4,Medium,Medium,Medium,7.9107,4.1111,6.47895,10,6,10
+Mozambique,MIX,MIX,3,0,0,0,0,0,0,0,0,0,0,0,Medium,Low,Low,7.9107,3.6339,3.63393,10,10,10
+Mozambique,"Crystal Clear Software, Ltd.",Technology Providers,3,0,3,3,3,3,3,3,3,3,3,3,Medium,High,High,7.9107,10,9.9505,10,10,10
+Mozambique,Neptune Software,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,7.9107,10,9.9505,10,10,10
+Mozambique,WSBI,WSBI,1,0,1,1,1,1,1,1,1,1,1,1,Medium,Medium,Medium,7.9107,7.6968,7.69677,10,10,10
+Namibia,GSMA,GSMA,2,0,2,2,2,2,2,2,2,2,2,2,High,High,High,10,9.826,9.82601,10,10,10
+Namibia,MIX,MIX,1,0,0,0,0,0,0,0,0,0,0,0,High,Low,Low,10,3.6339,3.63393,10,10,10
+Namibia,WSBI,WSBI,1,0,1,1,1,1,1,1,1,1,1,1,High,Medium,Medium,10,7.6968,7.69677,10,10,10
+Niger,MEF (Niger),Regulators,57,0,0,1,1,1,0,3,0,0,4,0,Medium,Low,Medium,7.4571,2.2,4.79699,10,3,10
+Niger,GSMA,GSMA,2,0,2,2,2,2,2,2,2,2,2,2,Medium,High,High,7.4571,9.826,9.82601,10,10,10
+Nigeria,Microcredit Summit,Microcredit Summit,13,0,13,0,0,4,13,13,13,0,13,4,Medium,Medium,Medium,7.9032,5.5813,5.58131,10,7,7
+Nigeria,MIX,MIX,8,0,4,0,0,0,0,1,3,0,1,0,Medium,Low,Low,7.9032,3.6339,3.63393,10,10,10
+Nigeria,"Crystal Clear Software, Ltd.",Technology Providers,4,0,4,4,4,4,4,4,4,4,4,4,Medium,High,High,7.9032,10,9.9505,10,10,10
+Nigeria,GSMA,GSMA,3,0,3,3,3,3,3,3,3,3,3,3,Medium,High,High,7.9032,9.826,9.82601,10,10,10
+Nigeria,INAFI,Networks,1,0,1,0,0,1,0,1,1,0,1,1,Medium,Low,Medium,7.9032,3.4615,6.47895,10,6,10
+Nigeria,Central Bank of Nigeria,Regulators,1,0,1,1,1,1,0,0,0,0,0,0,Medium,Medium,Medium,7.9032,4,4.79699,10,4,10
+Nigeria,Craft Silicon,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,7.9032,10,9.9505,10,10,10
+Rwanda,BNR,Regulators,71,0,71,16,16,20,0,0,2,0,0,3,Medium,Low,Medium,5.4,2.9063,4.79699,10,6,10
+Rwanda,MIX,MIX,7,0,0,0,0,0,0,0,1,0,0,0,Medium,Low,Low,5.4,3.6339,3.63393,10,10,10
+Rwanda,GSMA,GSMA,2,0,2,0,2,2,2,2,2,2,2,2,Medium,High,High,5.4,9.826,9.82601,10,10,10
+Rwanda,Microcredit Summit,Microcredit Summit,1,0,1,0,0,0,1,1,1,0,1,0,Medium,Medium,Medium,5.4,5.5813,5.58131,10,7,7
+Rwanda,INAFI,Networks,1,0,1,0,0,0,0,1,0,0,1,0,Medium,Low,Medium,5.4,3.4615,6.47895,10,6,10
+Rwanda,Aquadev,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,5.4,10,9.9505,10,10,10
+Rwanda,Neptune Software,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,5.4,10,9.9505,10,10,10
+Senegal,BCEAO,Regulators,13,0,0,0,0,1,13,13,13,0,13,1,Medium,Medium,Medium,7.8707,4.2222,4.79699,10,6,10
+Senegal,MIX,MIX,10,0,7,1,1,1,0,1,6,0,1,2,Medium,Low,Low,7.8707,3.6339,3.63393,10,10,10
+Senegal,Microcredit Summit,Microcredit Summit,4,0,4,0,0,0,4,4,4,0,4,0,Medium,Medium,Medium,7.8707,5.5813,5.58131,10,7,7
+Senegal,DRS-SFD,Regulators,4,0,4,4,4,4,4,4,4,4,4,4,Medium,High,Medium,7.8707,10,4.79699,10,10,10
+Senegal,"Crystal Clear Software, Ltd.",Technology Providers,3,0,3,3,3,3,3,3,3,3,3,3,Medium,High,High,7.8707,10,9.9505,10,10,10
+Senegal,WSBI,WSBI,2,0,1,2,2,2,2,2,2,2,2,2,Medium,Medium,Medium,7.8707,7.6968,7.69677,10,10,10
+Senegal,GSMA,GSMA,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,7.8707,9.826,9.82601,10,10,10
+Senegal,DID,Other credit union networks,1,0,0,0,0,0,0,0,0,0,0,0,Medium,Low,Low,7.8707,.,.,10,0,0
+Senegal,FDEA,Self-reported,1,0,1,0,0,1,0,1,1,0,1,1,Medium,Medium,Medium,7.8707,6,5.3,10,6,6
+Senegal,Aquadev,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,7.8707,10,9.9505,10,10,10
+Senegal,Xetic,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,7.8707,10,9.9505,10,10,10
+Senegal,WOCCU,WOCCU,1,0,1,0,0,0,0,1,0,0,1,0,Medium,Low,Low,7.8707,2.4872,2.48718,10,5,5
+Seychelles,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,Low,Low,Low,1,2.4872,2.48718,1,5,5
+Sierra Leone,MIX,MIX,12,0,3,0,0,2,0,0,3,0,0,0,Medium,Low,Low,7.3836,3.6339,3.63393,10,10,10
+Sierra Leone,GSMA,GSMA,2,0,2,2,2,2,2,2,2,2,2,2,Medium,High,High,7.3836,9.826,9.82601,10,10,10
+Somalia,GSMA,GSMA,2,0,2,2,2,2,2,2,2,2,2,2,Medium,High,High,7.4444,9.826,9.82601,10,10,10
+Somalia,INAFI,Networks,2,0,2,0,0,0,0,2,0,0,2,0,Medium,Low,Medium,7.4444,3.4615,6.47895,10,6,10
+Somalia,Microcredit Summit,Microcredit Summit,1,0,1,0,0,0,1,1,1,0,1,0,Medium,Medium,Medium,7.4444,5.5813,5.58131,10,7,7
+South Africa,MIX,MIX,10,0,6,1,1,2,0,0,3,0,0,6,Medium,Low,Low,7.7742,3.6339,3.63393,10,10,10
+South Africa,Finmark Trust,Research and news,10,0,4,0,0,5,3,3,7,0,3,5,Medium,Low,Medium,7.7742,3.8,4.19298,10,5,7
+South Africa,GSMA,GSMA,5,0,5,4,5,5,5,5,5,5,5,5,Medium,High,High,7.7742,9.826,9.82601,10,10,10
+South Africa,"Crystal Clear Software, Ltd.",Technology Providers,2,0,2,2,2,2,2,2,2,2,2,2,Medium,High,High,7.7742,10,9.9505,10,10,10
+South Africa,FAO-GTZ MicroBanking System,Technology Providers,2,0,1,2,2,2,2,2,2,2,2,2,Medium,High,High,7.7742,9.3571,9.9505,10,10,10
+South Africa,Kredits,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,7.7742,10,9.9505,10,10,10
+South Africa,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,Medium,Low,Low,7.7742,2.4872,2.48718,10,5,5
+South Africa,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,Medium,Medium,Medium,7.7742,7.6968,7.69677,10,10,10
+South Sudan,SSMDF,Networks,8,0,8,2,2,8,2,8,8,2,8,8,Medium,Medium,Medium,7.7442,7.4286,6.47895,10,10,10
+South Sudan,MIX,MIX,2,0,2,2,2,2,2,2,2,2,2,2,Medium,Low,Low,7.7442,3.6339,3.63393,10,10,10
+Swaziland,GSMA,GSMA,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,7.5789,9.826,9.82601,10,10,10
+Swaziland,MIX,MIX,1,0,1,0,0,1,0,0,0,0,0,0,Medium,Low,Low,7.5789,3.6339,3.63393,10,10,10
+Swaziland,World Vision,Networks,1,0,1,0,0,1,1,1,1,0,1,1,Medium,Medium,Medium,7.5789,7,6.47895,10,7,10
+Swaziland,Finmark Trust,Research and news,1,0,1,0,0,0,0,1,0,0,1,0,Medium,Low,Medium,7.5789,3.8,4.19298,10,5,7
+Swaziland,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,Medium,Low,Low,7.5789,2.4872,2.48718,10,5,5
+Tanzania,TAMFI,Networks,42,0,42,19,19,42,19,42,19,19,42,28,High,High,Medium,8.2234,8.0722,6.47895,10,10,10
+Tanzania,"Crystal Clear Software, Ltd.",Technology Providers,7,0,7,7,7,7,7,7,7,7,7,7,High,High,High,8.2234,10,9.9505,10,10,10
+Tanzania,MIX,MIX,6,0,0,1,1,1,0,1,0,0,1,1,High,Low,Low,8.2234,3.6339,3.63393,10,10,10
+Tanzania,GSMA,GSMA,4,0,4,3,4,4,4,4,4,4,4,4,High,High,High,8.2234,9.826,9.82601,10,10,10
+Tanzania,Microcredit Summit,Microcredit Summit,1,0,1,0,0,0,1,1,1,0,1,0,High,Medium,Medium,8.2234,5.5813,5.58131,10,7,7
+Tanzania,ECLOF,Networks,1,0,0,0,0,1,0,1,1,0,1,1,High,Medium,Medium,8.2234,5.2308,6.47895,10,6,10
+Tanzania,FAO-GTZ MicroBanking System,Technology Providers,1,0,0,1,1,1,1,1,1,1,1,1,High,High,High,8.2234,9.3571,9.9505,10,10,10
+Tanzania,Sigma Data & Computers,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.2234,10,9.9505,10,10,10
+Tanzania,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,High,Low,Low,8.2234,2.4872,2.48718,10,5,5
+Tanzania,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,High,Medium,Medium,8.2234,7.6968,7.69677,10,10,10
+Togo,AFMIN,Networks,1,0,1,0,0,0,1,1,1,0,1,0,Medium,Low,Medium,4.25,3.7143,6.47895,5,5,10
+Togo,WOCCU,WOCCU,1,0,1,0,0,0,0,1,0,0,1,0,Medium,Low,Low,4.25,2.4872,2.48718,5,5,5
+Togo,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,Medium,Medium,Medium,4.25,7.6968,7.69677,5,10,10
+Uganda,Sigma Data & Computers,Technology Providers,18,0,18,18,18,18,18,18,18,18,18,18,High,High,High,9.0071,10,9.9505,10,10,10
+Uganda,"Crystal Clear Software, Ltd.",Technology Providers,16,0,16,16,16,16,16,16,16,16,16,16,High,High,High,9.0071,10,9.9505,10,10,10
+Uganda,MIX,MIX,14,0,5,2,2,4,0,0,5,0,0,3,High,Low,Low,9.0071,3.6339,3.63393,10,10,10
+Uganda,Microcredit Summit,Microcredit Summit,6,0,6,0,0,1,6,6,6,0,6,1,High,Medium,Medium,9.0071,5.5813,5.58131,10,7,7
+Uganda,AMFIU,Networks,4,0,4,0,0,0,0,4,0,0,3,0,High,Low,Medium,9.0071,2.8182,6.47895,10,3,10
+Uganda,GSMA,GSMA,3,0,3,0,3,3,3,3,3,3,3,3,High,High,High,9.0071,9.826,9.82601,10,10,10
+Uganda,ECLOF,Networks,1,0,0,0,0,1,0,1,1,0,1,1,High,Medium,Medium,9.0071,5.2308,6.47895,10,6,10
+Uganda,Craft Silicon,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,9.0071,10,9.9505,10,10,10
+Uganda,FAO-GTZ MicroBanking System,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,9.0071,9.3571,9.9505,10,10,10
+Uganda,Neptune Software,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,9.0071,10,9.9505,10,10,10
+Uganda,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,High,Low,Low,9.0071,2.4872,2.48718,10,5,5
+Zambia,MIX,MIX,7,0,0,0,0,1,0,0,0,0,0,2,High,Low,Low,8.2787,3.6339,3.63393,10,10,10
+Zambia,GSMA,GSMA,4,0,4,4,4,4,4,4,4,4,4,4,High,High,High,8.2787,9.826,9.82601,10,10,10
+Zambia,ABC Holdings Limited,Donors and funds,1,0,1,1,1,1,0,1,1,0,1,1,High,High,Medium,8.2787,8,4.32342,10,8,10
+Zambia,ECLOF,Networks,1,0,0,0,0,1,0,1,1,0,1,1,High,Medium,Medium,8.2787,5.2308,6.47895,10,6,10
+Zambia,DID,Other credit union networks,1,0,0,0,0,0,0,0,0,0,0,0,High,Low,Low,8.2787,.,.,10,0,0
+Zambia,Craft Silicon,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.2787,10,9.9505,10,10,10
+Zambia,"Crystal Clear Software, Ltd.",Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.2787,10,9.9505,10,10,10
+Zambia,Neptune Software,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.2787,10,9.9505,10,10,10
+Zambia,Sigma Data & Computers,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,High,High,High,8.2787,10,9.9505,10,10,10
+Zambia,WOCCU,WOCCU,1,0,1,0,0,0,0,1,0,0,1,0,High,Low,Low,8.2787,2.4872,2.48718,10,5,5
+Zambia,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,High,Medium,Medium,8.2787,7.6968,7.69677,10,10,10
+Zimbabwe,Microcredit Summit,Microcredit Summit,4,0,4,0,0,2,4,4,4,0,4,2,Medium,Medium,Medium,7.3607,5.5813,5.58131,10,7,7
+Zimbabwe,INAFI,Networks,3,0,3,0,0,0,0,3,0,0,3,0,Medium,Low,Medium,7.3607,3.4615,6.47895,10,6,10
+Zimbabwe,GSMA,GSMA,2,0,2,2,2,2,2,2,2,2,2,2,Medium,High,High,7.3607,9.826,9.82601,10,10,10
+Zimbabwe,MIX,MIX,2,0,1,0,0,1,0,0,1,0,0,2,Medium,Low,Low,7.3607,3.6339,3.63393,10,10,10
+Zimbabwe,Neptune Software,Technology Providers,1,0,1,1,1,1,1,1,1,1,1,1,Medium,High,High,7.3607,10,9.9505,10,10,10
+Zimbabwe,WOCCU,WOCCU,1,0,1,0,0,0,0,0,0,0,0,0,Medium,Low,Low,7.3607,2.4872,2.48718,10,5,5
+Zimbabwe,WSBI,WSBI,1,0,0,0,1,0,1,0,0,1,0,0,Medium,Medium,Medium,7.3607,7.6968,7.69677,10,10,10
