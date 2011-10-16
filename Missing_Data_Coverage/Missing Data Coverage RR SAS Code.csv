@@ -1,0 +1,148 @@
+SAS Code Used:
+
+
+libname dwbmix 'C:\Documents and Settings\rrudola\My Documents\Personal Documents\Stuff\DWB';
+%let datapath=C:\Documents and Settings\rrudola\My Documents\Personal Documents\Stuff\DWB\Rawdata\;
+
+/* broader landscape+fin file (wo dups) */
+PROC IMPORT OUT=mixraw4
+"     DATAFILE= ""&datapath\Landscape-integrated-extract-to-load.xlsx"""
+     DBMS=excel REPLACE;
+     GETNAMES=yes;
+"  SHEET =""Landscape integrated"";"
+RUN;
+
+/* org name look up */
+PROC IMPORT OUT=mixrawlookup
+"     DATAFILE= ""&datapath\data_source_groups.xls"""
+     DBMS=excel REPLACE;
+     GETNAMES=yes;
+"  SHEET =""data_source_groups"";"
+RUN;
+
+
+proc freq data=mixraw4 order=freq; tables country*Data_Source__Organization_Name/list missing; run;
+proc freq data=mixraw4 order=freq; tables country/list missing; run;
+
+
+proc freq data=mixraw4 order=freq; tables Number_of_providers Number_of_branches Number_of_clients 
+Number_of_loans Number_of_deposit_accounts Gross_Loan_Portfolio Total_Assets Total_Deposits 
+GLP_USD Assets_USD Deposits_USD/list missing; run;
+proc freq data=mixraw4; tables Number_of_providers/list missing; 
+"where country=""Burkina Faso""; run;"
+proc sort data=mixraw4; by country Data_Source__Organization_Name; run;
+
+
+/* lookup file */
+data lookup; set mixrawlookup;
+
+attrib Data_Source__Organization_Name1 length=$28.;
+Data_Source__Organization_Name1=trim(left(Data_Source__Organization_Name));
+
+if Data_Source__Organization_Name='AP-SFD GuinÃ©e-Bissau' then do;
+Data_Source__Organization_Name1='AP-SFD Guinée-Bissau'; end;
+else if Data_Source__Organization_Name='APIM-GuinÃ©e' then do;
+Data_Source__Organization_Name1='AAPIM-Guinée'; end;
+
+drop Data_Source__Organization_Name;
+run;
+proc sort data=lookup; by Data_Source__Organization_Name1; run;
+proc sort data=mixraw4; by Data_Source__Organization_Name; run;
+
+data mixraw42; merge mixraw4 (in=a) lookup (rename=Data_Source__Organization_Name1=Data_Source__Organization_Name);
+by Data_Source__Organization_Name;
+if a;
+run;
+proc freq data=mixraw42; tables Data_Source__Organization_Name__/list missing; run;
+
+
+
+/* missing data breadth calcs */
+data mixraw41; set mixraw42 (rename=Data_Source__Organization_Name__=Data_Source__Organization_GRP);
+
+F1=(Number_of_branches=.);
+F2=(Number_of_clients=.);
+F3=(Number_of_loans=.);
+F4=(Number_of_deposit_accounts=.);
+F5=(Gross_Loan_Portfolio=.);
+F6=(Total_Assets=.);
+F7=(Total_Deposits=.);
+F8=(GLP_USD=.);
+F9=(Assets_USD=.);
+F10=(Deposits_USD=.);
+
+"Fsum=sum(F1,F2,F3,F4,F5,F6,F7,F8,F9,F10);"
+
+run;
+proc freq data=mixraw41; tables fsum/list missing; run;
+proc means data=mixraw41 noprint; var fsum; class country; 
+output out=breadth1 mean= max=/autoname; run;
+proc means data=mixraw41 noprint; var fsum; class country; wgt fsum; 
+output out=breadth2 (drop=_type_ _freq_) mean= max=/autoname; run;
+
+proc means data=mixraw41 noprint; var fsum; class Data_Source__Organization_Name; /*wgt fsum;*/ 
+output out=breadth3 (drop=_type_ _freq_) mean= max=/autoname; run;
+proc means data=mixraw41 noprint; var fsum; class Data_Source__Organization_Name; wgt fsum; 
+output out=breadth4 (drop=_type_ _freq_) mean= max=/autoname; run;
+
+proc means data=mixraw41 noprint; var fsum; class Data_Source__Organization_GRP; /*wgt fsum;*/ 
+output out=breadth5 (drop=_type_ _freq_) mean= max=/autoname; run;
+proc means data=mixraw41 noprint; var fsum; class Data_Source__Organization_GRP; wgt fsum; 
+output out=breadth6 (drop=_type_ _freq_) mean= max=/autoname; run;
+
+proc sort data=mixraw41; by country Data_Source__Organization_Name; run;
+proc means data=mixraw41 noprint nway;
+class country Data_Source__Organization_Name Data_Source__Organization_GRP;
+var Number_of_providers Number_of_branches Number_of_clients 
+Number_of_loans Number_of_deposit_accounts Gross_Loan_Portfolio Total_Assets Total_Deposits 
+GLP_USD Assets_USD Deposits_USD;
+output out=missnos nmiss=/autoname;
+run;
+
+proc sort data=missnos; by country descending _freq_; run;
+proc sort data=breadth2; by country; run;
+
+data missnos2;
+merge missnos (in=a) breadth2 (in=b);
+by country;
+if a;
+run;
+
+proc sort data=missnos2; by Data_Source__Organization_Name; run;
+proc sort data=breadth4; by Data_Source__Organization_Name; run;
+
+data missnos3;
+merge missnos2 (in=a) breadth4 (in=b rename=(Fsum_Mean=Fsum_Mean_DS
+                                             Fsum_Max=Fsum_Max_DS));
+by Data_Source__Organization_Name;
+if a;
+run;
+
+proc sort data=missnos3; by Data_Source__Organization_GRP; run;
+proc sort data=breadth6; by Data_Source__Organization_GRP; run;
+
+data missnos4;
+merge missnos3 (in=a) breadth6 (in=b rename=(Fsum_Mean=Fsum_Mean_GRP
+                                             Fsum_Max=Fsum_Max_GRP));
+by Data_Source__Organization_GRP;
+if a;
+run;
+
+proc sort data=missnos4; by country descending _freq_; run;
+
+data missnos5; set missnos4;
+if Fsum_Mean ge 8 then countrybreadth='High   ';
+else if Fsum_Mean lt 8 and Fsum_Mean ge 4 then countrybreadth='Medium';
+else if Fsum_Mean lt 4 then countrybreadth='Low';
+
+if Fsum_Mean_DS ge 8 then DSbreadth='High   ';
+else if Fsum_Mean_DS lt 8 and Fsum_Mean_DS ge 4 then DSbreadth='Medium';
+else if Fsum_Mean_DS lt 4 then DSbreadth='Low';
+
+if Fsum_Mean_GRP ge 8 then GRPbreadth='High   ';
+else if Fsum_Mean_GRP lt 8 and Fsum_Mean_GRP ge 4 then GRPbreadth='Medium';
+else if Fsum_Mean_GRP lt 4 then GRPbreadth='Low';
+run;
+
+proc sort data=missnos5; by country descending _freq_; run;
+

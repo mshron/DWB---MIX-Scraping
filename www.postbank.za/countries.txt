@@ -1,0 +1,1303 @@
+870 ABERDEEN                                                    
+568 ACORNHOEK                                                   
+951 ACTONVILLE                                                  
+741 ADDO                                                        
+871 ADELAIDE                                                    
+129 ALABAMA                                                     
+1035 ALBEMARLE                                                   
+1137 ALBERTINIA                                                  
+1003 ALBERTON                                                    
+1030 ALBERTON-NOORD                                              
+177 ALEXANDERBAY                                                
+1056 ALEXANDRA                                                   
+1082 ALEXANDRA SOUTH                                             
+872 ALEXANDRIA                                                  
+742 ALGOA PARK                                                  
+873 ALICE                                                       
+874 ALICEDALE                                                   
+875 ALIWAL NORTH                                                
+42 ALLANRIDGE                                                  
+552 ALLDAYS                                                     
+1004 ALRODE                                                      
+213 AMALIA                                                      
+820 AMALINDA                                                    
+280 AMANZIMTOTI                                                 
+618 AMSTERDAM                                                   
+1117 ANSFRERE                                                    
+432 APEL                                                        
+43 ARBORETUM                                                   
+476 ARCADIA                                                     
+1040 ARCON PARK                                                  
+1 ARLINGTON                                                   
+281 ASHWOOD                                                     
+993 ASTON MANOR                                                 
+214 ATAMALANG                                                   
+1165 ATHLONE                                                     
+971 ATLASVILLE                                                  
+433 ATOK                                                        
+477 ATTERIDGEVILLE                                              
+178 AUGRABIES                                                   
+362 AUSTERVILLE                                                 
+1108 AZAADVILLE                                                  
+693 BABETHU                                                     
+608 BADPLAAS                                                    
+130 BAILLIE PARK                                                
+44 BAINSVLEI                                                   
+630 BAKENBERG RPO                                               
+434 BAKONE                                                      
+623 BALFOUR                                                     
+876 BALFOUR                                                     
+321 BALGOWAN                                                    
+363 BALLITO                                                     
+646 BAMOKGOKO                                                   
+722 BAPONG                                                      
+569 BARBERTON                                                   
+91 BARKLEY WEST                                                
+877 BARKLEY-OOS                                                 
+407 BARRY HERTZOG PARK                                          
+1138  BARRYDALE                                                  
+179 BATHLARO                                                    
+821 BEACON BAY                                                  
+92 BEACONSFIELD                                                
+1139  BEAUFORT WEST                                              
+878 BEDFORD                                                     
+943 BEDFORDVIEW                                                 
+1041 BEDWORTH PARK                                               
+570 BELFAST                                                     
+1208 BELHAR                                                      
+1258 BELLA VISTA                                                 
+364 BELLAIR                                                     
+478 BELLEOMBRE                                                  
+1259 BELLVILLE                                                   
+1045 BENMORE                                                     
+950 BENONI                                                      
+954 BENONI NORTH                                                
+952 BENONI WEST                                                 
+365 BEREA ROAD  DURBAN                                          
+1078 BERGBRON                                                    
+408 BERGVILLE                                                   
+1066 BERGVLEI                                                    
+1166 BERGVLIET                                                   
+822 BERLIN                                                      
+919 BERTSHAM                                                    
+605 BETHAL                                                      
+712 BETHANIE                                                    
+2 BETHLEHEM                                                   
+93 BETHULIE                                                    
+1209 BETTY'S BAY                                                 
+992 BIRCHLEIGH                                                  
+823 BISHO                                                       
+366 BISHOPSGATE                                                 
+322 BISLEY                                                      
+818 BITYI                                                       
+819 BIZANA                                                      
+725 BLESKOP                                                     
+879 BLIKANA                                                     
+45 BLOEMFONTEIN                                                
+215 BLOEMHOF                                                    
+46 BLOEMSPRUIT                                                 
+1260 BLOUBERGRANT                                                
+367 BLUFF                                                       
+435 BOCHUM                                                      
+1021 BOIPATONG                                                   
+1027 BOITUMELO                                                   
+970 BOKSBURG                                                    
+972 BOKSBURG  EAST                                              
+973 BOKSBURG WEST                                               
+681 BOLEO                                                       
+824 BOLOTWA                                                     
+995 BONAERO PARK                                                
+1210 BONNIEVALE                                                  
+1211 BONTHEUWEL                                                  
+914 BOOYSEN                                                     
+571 BOSBOKRAND                                                  
+720 BOSHOEK                                                     
+94 BOSHOF                                                      
+282 BOTHA'S HILL                                                
+1261 BOTHASIG                                                    
+131 BOTHAVILLE                                                  
+680 BOTLENG                                                     
+47 BOTSHABELO                                                  
+436 BOYNE                                                       
+940 BRAAMFONTEIN                                                
+1031 BRACKEN GARDENS                                             
+1032 BRACKENDOWNS                                                
+1212 BRACKENFELL                                                 
+968 BRAKPAN                                                     
+1057 BRAMLEY                                                     
+48 BRANDFORT                                                   
+49 BRANDHOF                                                    
+180 BRANDVLEI                                                   
+1213 BREDASDORP                                                  
+996 BREDELL                                                     
+609 BREYTEN                                                     
+1140  BRIDGTON                                                   
+709 BRITS                                                       
+95 BRITSTOWN                                                   
+932 BRIXTON                                                     
+738 BROEDERSTROOM                                               
+1075 BROMHOF                                                     
+659 BRONKHORSTBRUIT                                             
+50 BRONVILLE                                                   
+479 BROOKLYN SQUARE                                             
+945 BRUMA                                                       
+1061 BRYANSTON                                                   
+96 BULTFONTEIN                                                 
+323 BULWER                                                      
+880 BURGERSDORP                                                 
+572 BURGERSFORT                                                 
+216 BURHMANSDRIF                                                
+881 BUSHMANS RIVER MOUTH                                        
+825 BUTTERWORTH                                                 
+826 CACADU                                                      
+787 CALA                                                        
+1214 CALEDON                                                     
+181 CALVINIA                                                    
+827 CAMBRIDGE                                                   
+324 CAMPERDOWN                                                  
+1167 CAMPS BAY                                                   
+1314 CAPE MAIL                                                   
+1168 CAPE TOWN FIN                                               
+1169 CAPE TOWN POST                                              
+1262 CAPEGATE                                                    
+1217 CAPEMAIL CENTRE COURT                                       
+1170 CAPRICORN SQUARE RPO                                        
+1215 CARAVELLE                                                   
+1110 CARLETONVILLE                                               
+182 CARNARVON                                                   
+624 CAROLINA                                                    
+325 CASCADES                                                    
+573 CASTEEL                                                     
+828 CATHCART                                                    
+326 CATO RIDGE                                                  
+283 CAVERSHAM GLEN                                              
+327 CEDARVILLE                                                  
+743 CENTRAHIL                                                   
+714 CENTRAL CITY                                                
+248 CENTRAL PARK                                                
+480 CENTURION                                                   
+1263 CENTURY CITY                                                
+1264 CERES                                                       
+249 CEZA                                                        
+735 CHANENG                                                     
+284 CHATSWORTH                                                  
+1265 CHEMPET                                                     
+97 CHRISTIANA                                                  
+653 CHROMITE                                                    
+437 CHUNESPOORT                                                 
+974 CINDA PARK                                                  
+1266 CITRUSDAL                                                   
+1267 CLANWILLIAM                                                 
+1171 CLAREINCH                                                   
+1172 CLAREMONT                                                   
+3 CLARENS                                                     
+788 CLARKEBURY                                                  
+285 CLERNAVILLE                                                 
+917 CLEVELAND                                                   
+672 CLEWER                                                      
+4 CLOCOLAN                                                    
+829 COFIMVABA                                                   
+789 COGHLAN                                                     
+98 COLESBERG                                                   
+132 COLIGNY                                                     
+1173 CONSTANTIA                                                  
+481 CORPORATESHOP                                               
+882 CRADOCK                                                     
+1067 CRAIGHALL                                                   
+1049 CRESTA                                                      
+930 CROWN MINES                                                 
+953 CRYSTALPARK                                                 
+1216 CT INTERNATIONAL                                            
+660 CULLINAN                                                    
+328 CUMBERWOOD                                                  
+1141  DAGAMASKOP                                                 
+1062 DAINFERN                                                    
+368 DALBRIDGE                                                   
+329 DALTON                                                      
+967 DALVIEW                                                     
+51 DANHOF                                                      
+183 DANIELSKUIL                                                 
+409 DANNHAUSER                                                  
+482 DANVILLE                                                    
+483 DASPOORT RPO                                                
+1268 DASSENBERG                                                  
+955 DAVEYTON                                                    
+99 DE AAR                                                      
+1015 DE DEUR                                                     
+1218 DE DOORNS                                                   
+1142 DE RUST                                                     
+100 DEALESVILLE                                                 
+883 DEBE NEK                                                    
+1079 DELAREY                                                     
+217 DELAREYVILLE                                                
+1219 DELFT                                                       
+661 DELMAS                                                      
+101 DELPORTSHOOP                                                
+438 DENDRON                                                     
+133 DENEYSVILLE                                                 
+484 DENNEBOOM                                                   
+662 DENNILTON                                                   
+982 DERSLEY                                                     
+744 DESPATCH                                                    
+52 DEWETSDORP                                                  
+1220 DIE BOORD                                                   
+485 DIE TREMLOODS                                               
+486 DIE WILGERS                                                 
+1093 DIEPKLOOF                                                   
+5 DIKGAKENG                                                   
+830 DIMBAZA                                                     
+134 DINOKANA                                                    
+1094 DOBSONVILLE                                                 
+330 DONNYBROOK                                                  
+934 DOORNFONTEIN                                                
+487 DOORNPOORT                                                  
+831 DORDRECHT                                                   
+369 DORMERTON                                                   
+331 DORPSPRUIT                                                  
+102 DOUGLAS                                                     
+961 DOWERGLEN                                                   
+574 DRIEKOP                                                     
+1095 DUBE                                                        
+965 DUDUZA                                                      
+439 DUIWELSKLOOF                                                
+884 DUKATHOLE                                                   
+410 DUKUZA                                                      
+411 DUNDEE                                                      
+610 DUNDONALD                                                   
+966 DUNNOTTAR                                                   
+956 DUNSWART                                                    
+370 DURBAN                                                      
+286 DURBAN INT. AIRPORT                                         
+371 DURBAN NORTH                                                
+1269 DURBANVILLE                                                 
+372 DURMAIL                                                     
+440 DWARSRIVER                                                  
+1143  DYSSELSDORP                                                
+536 DZANANI                                                     
+373 EAST END                                                    
+832 EAST LONDON                                                 
+103 EDENBURG                                                    
+332 EDENDALE                                                    
+962 EDENGLEN                                                    
+1005 EDENPARK                                                    
+960 EDENVALE                                                    
+6 EDENVILLE                                                   
+1270 EDGEMEAD                                                    
+994 EDLEEN                                                      
+53 EERSTEMYN                                                   
+1221 EERSTERIVIER                                                
+488 EERSTERUS                                                   
+54 EHRLICHPARK                                                 
+676 EKANDUSTRIA                                                 
+677 EKANGALA                                                    
+489 ELARDUSPARK                                                 
+1096 ELDORADOPARK                                                
+539 ELIM HOSPITAL                                               
+790 ELLIOT                                                      
+791 ELLIOTDALE                                                  
+642 ELLISRAS                                                    
+1222 ELONWABENI                                                  
+1036 ELSBURG                                                     
+1223 ELSIESRIVIER                                                
+975 ELSPARK                                                     
+575 ELUKWATINI                                                  
+673 EMALAHLENI                                                  
+627 EMBALENHLE                                                  
+745 EMERALD HILL                                                
+651 EMLANJENI                                                   
+412 EMONDLO                                                     
+250 EMPANGENI                                                   
+251 EMPANGENI STATION                                           
+663 EMPUMALANGA                                                 
+792 ENGCOBO                                                     
+645 ENKELBULT                                                   
+1089 ENNERDALE                                                   
+723 ENTABENI                                                    
+1224 EPPINDUST                                                   
+607 ERMELO                                                      
+252 ESHOWE                                                      
+253 ESIKHAWINI                                                  
+413 ESTCOURT                                                    
+626 EVANDER                                                     
+7 EXCELSIOR                                                   
+55 EXTONWEG                                                    
+414 EZAKHENI                                                    
+833 EZIBILENI                                                   
+490 FAERIGLEN                                                   
+1076 FAIRLAND                                                    
+56 FALCKVLEI                                                   
+957 FARRARMERE                                                  
+441 FAUNAPARK                                                   
+57 FAUNASIG                                                    
+104 FAURESMITH                                                  
+1047 FERNDALE                                                    
+58 FICHARDT PARK                                               
+8 FICKSBURG                                                   
+793 FLAGSTAFF                                                   
+135 FLAMWOOD                                                    
+136 FLAMWOOD WALK                                               
+1116 FLORIDA                                                     
+1118 FLORIDA HILLS                                               
+137 FOCHVILLE                                                   
+138 FOCHVILLE CENTRAL                                           
+1077 FONTAINEBLEAU                                               
+937 FORDSBURG                                                   
+885 FORT BEAUFORT                                               
+886 FORT HARE                                                   
+9 FOURIESBURG                                                 
+10 FRANKFORT                                                   
+1225 FRANSCHHOEK                                                 
+184 FRASERBURG                                                  
+139 FREEMANVILLE                                                
+694 GA-RANKUWA                                                  
+713 GA-RANKUWA NORTH                                            
+442 GAKGAPANE                                                   
+105 GALESHEWE                                                   
+1058 GALLO MANOR                                                 
+287 GAMALAKHE                                                   
+746 GAMBLEVILLE                                                 
+1226 GANSBAAI (RPO)                                              
+218 GANYESA                                                     
+925 GARDENVIEW                                                  
+491 GARSFONTEIN                                                 
+1174 GATESVILLE                                                  
+747 GELVANDALE                                                  
+1144  GEORGE                                                     
+1145  GEORGE EAST                                                
+1146  GEORGE INDUSTRIA                                           
+1008 GERMISTON                                                   
+492 GEZINA                                                      
+288 GILLITTS                                                    
+254 GINGINDLOVU                                                 
+543 GIYANI                                                      
+682 GLEN COWIE                                                  
+59 GLEN HARMONY                                                
+415 GLENCOE                                                     
+1122 GLENHARVIE                                                  
+374 GLENSASHLEY                                                 
+924 GLENVISTA                                                   
+1175 GLOSDERRY                                                   
+443 GOMPIES                                                     
+834 GONUBIE                                                     
+1272 GOODWOOD                                                    
+1227 GORDONSBAAI                                                 
+748 GOVAN MBEKI                                                 
+749 GQEBERA                                                     
+887 GRAAFF-REINET                                               
+1228 GRABOUW                                                     
+888 GRAHAMSTAD                                                  
+576 GRASKOP                                                     
+1176 GRASSY PARK                                                 
+1147  GREAT BRAK RIVER                                           
+1177 GREEN POINT                                                 
+750 GREENACRES                                                  
+835 GREENFIELDS                                                 
+1123 GREENHILLS                                                  
+916 GREENSIDE                                                   
+616 GREYLINGSTAD                                                
+333 GREYTOWN                                                    
+375 GREYVILLE                                                   
+185 GRIEKWASTAD                                                 
+664 GROBLERSDAL                                                 
+186 GROBLERSHOOP                                                
+140 GROOT-MARICO                                                
+444 GROOTHOEK                                                   
+615 GROOTVLEI                                                   
+1178 GUGULETU                                                    
+106 HADISONPARK                                                 
+1072 HALFWAY HOUSE                                               
+631 HAMMANSKRAAL                                                
+289 HAMMARSDALE                                                 
+751 HANKEY                                                      
+1179 HANOVER PARK                                                
+334 HARDING                                                     
+11 HARRISMITH                                                  
+141 HARTBEESFONTEIN                                             
+695 HARTBEESPOORT                                               
+1148  HARTENBOS                                                  
+107 HARTSWATER                                                  
+493 HATFIELD                                                    
+577 HAZYVIEW                                                    
+60 HEIDEDAL                                                    
+61 HEIDEDAL CENTRAL                                            
+1149  HEIDELBERG                                                 
+985 HEIDELBERG                                                  
+12 HEILBRON                                                    
+1112 HEKPOORT                                                    
+1132 HELDERKRUIN                                                 
+1044 HENBYL                                                      
+625 HENDRINA                                                    
+1016 HENLEY ON KLIP                                              
+13 HENNENMAN                                                   
+494 HERCULES                                                    
+1229 HERMANUS                                                    
+889 HERSCHEL                                                    
+108 HERTZOGVILLE                                                
+219 HEUNAAR                                                     
+62 HEUWELSIG                                                   
+290 HIBBERDENE                                                  
+335 HIGHFLATS                                                   
+1068 HIGHLANDS NORTH                                             
+495 HIGHVELD PARK                                               
+948 HILLBROW                                                    
+291 HILLCREST                                                   
+336 HILTON                                                      
+255 HLABISA                                                     
+256 HLUHLUWE                                                    
+578 HLUVUKANI                                                   
+63 HOBHOUSE                                                    
+579 HOEDSPRUIT                                                  
+890 HOFMEYR                                                     
+1050 HONEYDEW                                                    
+109 HOOPSTAD                                                    
+110 HOPETOWN                                                    
+187 HOTAZEL                                                     
+944 HOUGHTON                                                    
+1180 HOUT BAY                                                    
+1181 HOWARD PLACE                                                
+337 HOWICK                                                      
+1271 HUGUENOT                                                    
+752 HUMANSDORP                                                  
+753 HUMEWOOD                                                    
+754 HUNTER'S RETREAT                                            
+416 HUTTEN HEIGHTS                                              
+376 HYPER BY THE SEA                                            
+836 IDUTYWA                                                     
+696 IFAFI                                                       
+142 IKAGENG                                                     
+837 ILINGE                                                      
+838 ILITHA                                                      
+338 IMPENDLE                                                    
+377 INANDA                                                      
+1051 INDUSTRIA                                                   
+839 INDWE                                                       
+257 INGWAVUMA                                                   
+1026 IRONSIDE                                                    
+990 ISANDO                                                      
+292 ISIPINGO                                                    
+293 ISIPINGO BEACH                                              
+220 ITSOSENG                                                    
+339 IXOPO                                                       
+294 IZINGOLWENI                                                 
+378 JACOBS                                                      
+111 JACOBSDAL                                                   
+112 JAGERSFONTEIN                                               
+891 JAMESTOWN                                                   
+113 JAN KEMPDORP                                                
+580 JANE FURSE                                                  
+892 JANSENVILLE                                                 
+755 JEFFREYSBAAI                                                
+942 JEPPESTOWN                                                  
+727 JERICHO                                                     
+998 JHB INT. LUGHAWE                                            
+756 JOE SLOVO                                                   
+939 JOHANNESBURG                                                
+757 JOUBERTINA                                                  
+143 JOUBERTON                                                   
+258 JOZINI                                                      
+1084 JUKSKEIPARK                                                 
+445 JUNO                                                        
+581 KABOKWENI                                                   
+64 KAGISANONG                                                  
+1113 KAGISO                                                      
+1126 KAGISO EAST                                                 
+188 KAKAMAS                                                     
+144 KANANA                                                      
+582 KANYAMAZANE                                                 
+496 KARENPARK                                                   
+1273 KASSELSVLEI                                                 
+189 KATHU                                                       
+1011 KATLEHONG                                                   
+1230 KAYAMANDI                                                   
+840 KEI ROAD (15:30)                                            
+190 KEIMOES                                                     
+893 KEISKAMMAHOEK                                               
+1059 KELVIN                                                      
+991 KEMPTON PARK                                                
+191 KENHARDT                                                    
+1182 KENILWORTH                                                  
+931 KENSINGTON                                                  
+841 KENTANI                                                     
+894 KENTON ON SEA                                               
+65 KENWORTH                                                    
+14 KESTELL                                                     
+340 KHAN ROAD                                                   
+1231 KHAYELITSHA                                                 
+145 KHOTSONG                                                    
+146 KHUMA                                                       
+1090 KIASHA PARK                                                 
+920 KIBLER PARK                                                 
+114 KIMBERLEY                                                   
+842 KING WILLIAMS TOWN                                          
+295 KINGS ROAD                                                  
+613 KINROSS                                                     
+758 KIRKWOOD                                                    
+1232 KLEINMOND                                                   
+192 KLEINSEE                                                    
+147 KLERKSDORP                                                  
+148 KLERKSDORP PENSIONS                                         
+1097 KLIPTOWN                                                    
+296 KLOOF                                                       
+1150  KNYSNA                                                     
+149 KOCKSPARK                                                   
+1124 KOCKSVLEI                                                   
+115 KOFFIEFONTEIN                                               
+794 KOHLO                                                       
+341 KOKSTAD                                                     
+843 KOMANI                                                      
+583 KOMATIPOORT                                                 
+844 KOMGA                                                       
+15 KOPPIES                                                     
+446 KORINGPUNT                                                  
+759 KORSTEN                                                     
+697 KOSTER                                                      
+1233 KRAAIFONTEIN                                                
+221 KRAAIPAN                                                    
+342 KRANSKOP                                                    
+665 KRIEL                                                       
+698 KROONDAL                                                    
+16 KROONHEUWEL                                                 
+17 KROONPARK                                                   
+18 KROONSTAD                                                   
+895 KROONVALE                                                   
+1111 KRUGERSDORP                                                 
+1136 KRUGERSDORP NORTH                                           
+1234 KUILSRIVIER                                                 
+193 KURUMAN                                                     
+553 KUTAMA                                                      
+983 KWA THEMA                                                   
+343 KWA XIMBA                                                   
+666 KWA-MHLANGA                                                 
+259 KWADLANGEZWA                                                
+760 KWADWESI                                                    
+845 KWALOYITI                                                   
+379 KWAMASHU                                                    
+260 KWAMBONAMBI                                                 
+297 KWANDENGEZI                                                 
+261 KWANGWANASE                                                 
+761 KWANOBUHLE                                                  
+986 KWATHEMA                                                    
+1098 KWAXUMA                                                     
+380 KWAZIMELE                                                   
+1012 KWENZEKILE                                                  
+1073 KYALAMI                                                     
+447 LADANNA                                                     
+1151  LADISMITH                                                  
+896 LADY GREY                                                   
+19 LADYBRAND                                                   
+417 LADYSMITH                                                   
+1152  LAINGSBURG                                                 
+1274 LAMBERTSBAAI                                                
+1037 LAMBTON                                                     
+298 LAMONTVILLE                                                 
+1183 LANGA                                                       
+1275 LANGEBAAN                                                   
+66 LANGENHOVENPARK                                             
+928 LANGLAAGTE                                                  
+1184 LANSDOWNE                                                   
+1063 LANSERIA                                                    
+497 LAUDIUM                                                     
+1235 LAVISTOWN                                                   
+448 LEBOWAKGOMO                                                 
+222 LEEUDORINGSTAD                                              
+1088 LENASIA                                                     
+1091 LENASIA NORTH                                               
+20 LENGAU                                                      
+1236 LENTEGEUR                                                   
+449 LENYENYE                                                    
+1038 LEONDALE                                                    
+667 LERAATSFONTEIN                                              
+150 LERATO                                                      
+629 LESLIE                                                      
+450 LETABA                                                      
+710 LETHABONG                                                   
+699 LETLHABILE                                                  
+451 LETSITELE                                                   
+563 LEVUBU                                                      
+795 LIBODE                                                      
+151 LICHTENBURG                                                 
+194 LIME ACRES                                                  
+923 LINDEN                                                      
+21 LINDLEY                                                     
+1237 LINGELETHU WEST                                             
+897 LINGELIHLE                                                  
+299 LINK HILLS                                                  
+762 LINTON GRANGE                                               
+195 LOERIESFONTEIN                                              
+452 LONSDALE                                                    
+300 LOTUS PARK                                                  
+551 LOUIS TRICHARDT                                             
+418 LOUWSBURG                                                   
+116 LUCKHOFF                                                    
+721 LUKA                                                        
+453 LULEKANI                                                    
+796 LUSIKISIKI                                                  
+1276 LUTZVILLE                                                   
+344 LUXMI                                                       
+564 LWAMONDO                                                    
+584 LYDENBURG                                                   
+1085 LYNDHURST                                                   
+498 LYNN EAST                                                   
+499 LYNNWOOD RIDGE                                              
+500 LYTTELTON                                                   
+737 MABEESKRAAL                                                 
+700 MABOPANE                                                    
+1238 MACASSAR                                                    
+585 MACHADODORP                                                 
+797 MACLEAR                                                     
+419 MADADENI                                                    
+798 MADEIRA                                                     
+223 MADIBOGO                                                    
+152 MADIKWE                                                     
+1025 MAFATSANA                                                   
+224 MAFIKENG                                                    
+1135 MAGALIESBURG                                                
+225 MAGOGONG                                                    
+262 MAHLABATINI                                                 
+640 MAHWELERENG                                                 
+1277 MAITLAND                                                    
+648 MAJANENG                                                    
+647 MAKAPANSTAD                                                 
+558 MAKONDE                                                     
+226 MAKWASSIE                                                   
+546 MALAMULELE                                                  
+586 MALELANE                                                    
+1278 MALMESBURY                                                  
+799 MALUTI                                                      
+381 MALVERN                                                     
+501 MAMELODI                                                    
+502 MAMELODI EAST                                               
+1279 MAMRE                                                       
+263 MANDENI                                                     
+67 MANGAUNG                                                    
+117 MANKURWANE                                                  
+68 MANNY'S                                                     
+454 MANTHATA                                                    
+1239 MANYANANI                                                   
+632 MAPELA RPO                                                  
+264 MAPUMULO                                                    
+1052 MARAISBURG                                                  
+668 MARBLE HALL                                                 
+382 MARBLE RAY                                                  
+227 MAREETSANE                                                  
+301 MARGATE                                                     
+716 MARIKANA                                                    
+383 MARINE PARADE                                               
+683 MARISHANE                                                   
+898 MARKET SQUARE                                               
+22 MARQUARD                                                    
+929 MARSHALLTOWN                                                
+196 MARYDALE                                                    
+684 MASEMOLA                                                    
+540 MASHAMBA                                                    
+455 MASHASHANE                                                  
+541 MASHAU                                                      
+544 MASIA                                                       
+549 MASINGITA                                                   
+1028 MASOHENG                                                    
+345 MATATIELE                                                   
+1240 MATIELAND                                                   
+153 MATLOSANE                                                   
+1241 MATROOSFONTEIN                                              
+587 MATSULU                                                     
+800 MAXESIBENY                                                  
+384 MAYDON WHARF                                                
+346 MAYOR'S WALK                                                
+385 MAYVILLE                                                    
+154 MAZENZELE                                                   
+265 MBAZWANA                                                    
+1280 MBEKWENI                                                    
+846 MDANTSANE                                                   
+1100 MEADOWLANDS                                                 
+503 MEDUNSA                                                     
+266 MEER EN SEE                                                 
+267 MELMOTH                                                     
+927 MELVILLE                                                    
+23 MEMEL                                                       
+504 MENLOPARK                                                   
+506 MENLYN CENTRAL                                              
+505 MENLYN PP                                                   
+69 MERAFONG                                                    
+347 MERRIVALE                                                   
+550 MESSINA                                                     
+1033 MEYERSDAL                                                   
+1017 MEYERTON                                                    
+801 MFUNDISWENI                                                 
+689 MHLUZI                                                      
+899 MICHAUSDAL                                                  
+669 MIDDELBURG                                                  
+900 MIDDELBURG CAPE                                             
+901 MIDDLEDRIFT                                                 
+197 MIER                                                        
+1185 MILL STREET                                                 
+1281 MILNERTON                                                   
+763 MISGUND                                                     
+1242 MITCHELLS PLAIN                                             
+588 MKHUHLU                                                     
+348 MKONDENI                                                    
+268 MKUZE                                                       
+847 MLUNGISI                                                    
+228 MMABATHO                                                    
+386 MOBENI                                                      
+155 MODIMOSANA                                                  
+456 MODJADJI                                                    
+457 MOETLADIMO                                                  
+687 MOGANYAKA                                                   
+730 MOGONO                                                      
+701 MOGWASE                                                     
+1109 MOHLAKENG                                                   
+24 MOKODUMELA                                                  
+902 MOLTENO                                                     
+711 MONAKATO                                                    
+946 MONDEOR                                                     
+1243 MONTAGU                                                     
+507 MONTANA PARK                                                
+387 MONTCLAIR                                                   
+229 MONTSHIWA                                                   
+508 MONUMENT PARK                                               
+715 MOOINOOI                                                    
+349 MOOIRIVIER                                                  
+458 MOOKETSI                                                    
+1282 MOORRESBURG                                                 
+509 MORELETA PARK                                               
+510 MORELETA PLAZA RPO                                          
+70 MORESKOF                                                    
+606 MORGENZON                                                   
+1099 MOROKA                                                      
+230 MOROKWENG                                                   
+702 MORULA                                                      
+764 MOSELVILLE                                                  
+1153  MOSSEL BAY                                                 
+685 MOTETEMA                                                    
+688 MOTETI                                                      
+765 MOTHERWELL                                                  
+198 MOTHIBASTAT                                                 
+728 MOTHOTLUNG                                                  
+71 MOTSETHABONG                                                
+156 MOTSWEDI                                                    
+388 MOUNT EDGECOMBE                                             
+802 MOUNT FRERE                                                 
+1186 MOWBRAY                                                     
+459 MPHAHLELE                                                   
+611 MPULUZI                                                     
+803 MQANDULI                                                    
+848 MSOBOMVU                                                    
+350 MSUNDUZI                                                    
+804 MT FLETCHER                                                 
+269 MTUBATUBA                                                   
+270 MTUNZINI                                                    
+1187 MUIZENBERG                                                  
+1127 MULDERSDRIF                                                 
+542 MULIMA                                                      
+1114 MUNSIEVILLE                                                 
+554 MUNZHEDZI                                                   
+389 MUSGRAVE ROAD                                               
+559 MUTALE                                                      
+157 MUZIMUHLE                                                   
+1283 N1 CITY                                                     
+633 NABOOMSPRUIT                                                
+302 NAGINA                                                      
+849 NAHOON                                                      
+460 NAMAKGALE                                                   
+850 NCORA                                                       
+851 NDABAKAZI                                                   
+390 NDWEDWE                                                     
+686 NEBO                                                        
+903 NELSON MANDELA                                              
+589 NELSPRUIT                                                   
+766 NEW BRIGHTON                                                
+303 NEW GERMANY                                                 
+420 NEWCASTLE                                                   
+767 NEWTONPARK                                                  
+922 NEWTOWN                                                     
+590 NGODWANA                                                    
+805 NGQELENI                                                    
+852 NGWENYATHI                                                  
+1154  NIEUVELD                                                   
+199 NIEUWOUDTVILLE                                              
+964 NIGEL                                                       
+271 NKANDLA                                                     
+272 NONGOMA                                                     
+273 NONGOMA CITIZENS P.O                                        
+1244 NONKQUBELA                                                  
+158 NOORDBRUG                                                   
+768 NOORDEINDE                                                  
+1115 NOORDHEUWEL                                                 
+769 NOORSEKLOOF                                                 
+997 NORKEMPARK                                                  
+231 NORLIM                                                      
+1064 NORTH RIDING                                                
+652 NORTHAM                                                     
+1071 NORTHLANDS                                                  
+959 NORTHMEAD                                                   
+1070 NORWOOD                                                     
+351 NOTTINGHAM ROAD                                             
+118 NOUPOORT                                                    
+853 NQAMAKWE                                                    
+421 NQUTU                                                       
+72 NTLAFATSONG                                                 
+806 NTLAZA                                                      
+304 NTOKOZWENI                                                  
+461 NWAMITWA                                                    
+634 NYLSTROOM                                                   
+274 NYONI                                                       
+537 NZHELELE                                                    
+1125 OBERHOLZER                                                  
+73 ODENDAALSRUS                                                
+674 OGIES                                                       
+1074 OLIFANTSFONTEIN                                             
+200 OLIFANTSHOEK                                                
+511 ONDERSTEPOORT                                               
+1245 ONRUSRIVIER(RPO)                                            
+644 ONVERWACHT                                                  
+976 OOS-RAND                                                    
+1029 ORANGE FARM                                                 
+1069 ORANGE GROVE                                                
+201 ORANJEKRUIN                                                 
+159 ORANJEVILLE                                                 
+160 ORKNEY                                                      
+1092 ORLANDO                                                     
+422 OSIZWENI                                                    
+1188 OTTERY                                                      
+232 OTTOSDAL                                                    
+1155  OUDTSHOORN                                                 
+391 OVERPORT                                                    
+352 OZWATINI                                                    
+512 P.V/RYNEVELD                                                
+1128 PAARDEKRAAL                                                 
+1284 PAARDEN EILAND                                              
+1285 PAARL                                                       
+1156  PACALTSDORP                                                
+119 PAMPIERSTAD                                                 
+1286 PANORAMA                                                    
+74 PANSIG                                                      
+1022 PARK SOUTH                                                  
+936 PARKLANDS                                                   
+926 PARKVIEW                                                    
+1189 PARLIAMENT                                                  
+1287 PAROW                                                       
+161 PARYS                                                       
+770 PATENSIE                                                    
+25 PAUL ROUX                                                   
+423 PAULPIETERSBURG                                             
+904 PEDDIE                                                      
+854 PEFFERVILLE                                                 
+620 PERDEKOP                                                    
+120 PESCODIA                                                    
+26 PETRUS STEYN                                                
+121 PETRUSBURG                                                  
+122 PETRUSVILLE                                                 
+855 PHAKAMISA                                                   
+462 PHALABORWA                                                  
+1190 PHILIPPI                                                    
+123 PHILIPPOLIS                                                 
+392 PHOENIX                                                     
+703 PHOKENG                                                     
+718 PHOTSANENG                                                  
+27 PHUTHADITJHABA                                              
+657 PIENAARSRIVIER                                              
+617 PIET RETIEF                                                 
+353 PIETERMARITZBURG                                            
+463 PIETERSBURG                                                 
+464 PIETERSBURG NORTH                                           
+1288 PIKETBERG                                                   
+1101 PIMVILLE                                                    
+1048 PINEGOWRIE                                                  
+305 PINETOWN                                                    
+354 PLESSISLAER                                                 
+1157  PLETTENBERG BAY                                            
+1191 PLUMSTEAD                                                   
+28 POELONG                                                     
+202 POFADDER                                                    
+393 POINT                                                       
+424 POMEROY                                                     
+425 PONGOLA                                                     
+905 PORT ALFRED                                                 
+306 PORT EDWARD                                                 
+771 PORT ELIZABETH                                              
+307 PORT SHEPSTONE                                              
+810 PORT ST JOHN'S                                              
+1289 PORTERVILLE                                                 
+203 PORTH NOLLOTH                                               
+1001 POSTBANK                                                    
+204 POSTMASBURG                                                 
+162 POTCHEFSTROOM                                               
+635 POTGIETERSRUS                                               
+513 PRETORIA                                                    
+514 PRETORIA NORTH                                              
+205 PRIESKA                                                     
+1009 PRIMROSE                                                    
+1158  PRINCE ALBERT                                              
+1290 PRINCE ALFRED HAMLET                                        
+163 PROMOSA                                                     
+1102 PROTEA GARDENS                                              
+1103 PROTEA GLEN                                                 
+1104 PROTEA NORTH                                                
+704 PROTEA PARK                                                 
+233 PUDIMOE                                                     
+690 PULLENSHOPE                                                 
+515 PYRAMID                                                     
+856 QAMATA                                                      
+516 QUAGGA RPO                                                  
+394 QUALBERT                                                    
+395 QUEENSBURGH                                                 
+857 QUEENSTOWN                                                  
+517 QUEENSWOOD                                                  
+858 QUIGNEY                                                     
+807 QUMBU                                                       
+234 RADITHUSO                                                   
+555 RADITSHABA                                                  
+658 RADIUM                                                      
+75 RAMAHUTSI                                                   
+465 RAMOKGOPA                                                   
+1046 RANDBURG                                                    
+1107 RANDFONTEIN                                                 
+1006 RANDHART                                                    
+739 RANKUNYANA                                                  
+1129 RANT-EN-DAL                                                 
+518 RASLOUW                                                     
+235 RATSHIDI                                                    
+1246 RAVENSMEAD                                                  
+678 RAYTON                                                      
+641 REBONE                                                      
+396 RED HILL                                                    
+76 REDDERSBURG                                                 
+808 REDOUBT                                                     
+977 REIGERPARK                                                  
+29 REITZ                                                       
+236 REIVILO                                                     
+308 RESERVOIR HILLS                                             
+519 RETHABILE                                                   
+1192 RETREAT                                                     
+1291 REYGERSDAL                                                  
+731 RHENOSTERKRAAL                                              
+1193 RHINE ROAD (RPO)                                            
+1194 RHODESGIFT (RPO)                                            
+275 RICHARDS BAY                                                
+355 RICHMOND                                                    
+124 RICHMOND (CAPE)                                             
+717 RIDDERPARK                                                  
+772 RIEBEECKHOOGTE                                              
+77 RIEBEECKSTAD                                                
+691 RIETKUIL                                                    
+988 RIVERFIELD                                                  
+1159  RIVERSDALE                                                 
+164 RIVERWALK                                                   
+1247 RIVIERSONDEREND                                             
+1055 RIVONIA                                                     
+1248 ROBERTSON                                                   
+397 ROCHDALE PARK                                               
+1195 ROGGEBAAI                                                   
+1196 RONDEBOSCH                                                  
+1119 ROODEPOORT                                                  
+692 ROOSSENEKAL                                                 
+30 ROSENDAL                                                    
+938 ROSETTENVILLE                                               
+398 ROSSBURGH                                                   
+520 ROSSLYN                                                     
+78 ROUXVILLE                                                   
+1053 RUIMSIG                                                     
+978 RUSLOO                                                      
+705 RUSTENBURG                                                  
+958 RYNFIELD                                                    
+591 SABIE                                                       
+1292 SALDANHA                                                    
+773 SALTVILLE                                                   
+1086 SANDRINGHAM                                                 
+1065 SANDTON                                                     
+1293 SANLAMHOF                                                   
+237 SANNIESHOF                                                  
+206 SANTOY                                                      
+547 SASELAMANI                                                  
+165 SASOLBURG                                                   
+736 SAULSPOORT                                                  
+521 SAULSVILLE                                                  
+935 SAXONWOLD                                                   
+774 SCHAUDERVILE                                                
+238 SCHWEIZER RENEKE                                            
+309 SCOTTBURGH                                                  
+356 SCOTTSVILLE                                                 
+1197 SEA POINT                                                   
+1024 SEBOKENG                                                    
+612 SECUNDA                                                     
+1160  SEDGEFIELD                                                 
+592 SEKHUKHUNE                                                  
+987 SELCOURT                                                    
+79 SELOSESHA                                                   
+31 SENEKAL                                                     
+466 SESHEGO                                                     
+649 SETTLERS                                                    
+906 SEYMOUR                                                     
+1018 SHARPEVILLE                                                 
+593 SHATALE                                                     
+809 SHAWBURY                                                    
+565 SHAYANDIMA                                                  
+310 SHELLY BEACH                                                
+467 SHILUVANE                                                   
+594 SHONGWE MISSION                                             
+557 SIBASA                                                      
+775 SIDWELL                                                     
+522 SILVERTON                                                   
+1198 SIMONSTOWN                                                  
+523 SINOVILLE                                                   
+907 SIPHIWO MAZWAYI                                             
+732 SIYABONGA                                                   
+670 SIYABUSWA                                                   
+636 SKILPADFONTEIN RPO                                          
+595 SKUKUZA                                                     
+239 SLURRY                                                      
+80 SMITHFIELD                                                  
+468 SOEKMEKAAR                                                  
+469 SOLOMONDALE                                                 
+908 SOMERSET EAST                                               
+1249 SOMERSET-MALL                                               
+1250 SOMERSET-WEST                                               
+1042 SONLANDPARK                                                 
+596 SONPARK                                                     
+524 SOSHANGUVE                                                  
+525 SOSHANGUVE WEST                                             
+1007 SOUTH HILLS                                                 
+941 SOUTHDALE                                                   
+859 SOUTHERNWOOD                                                
+921 SOUTHGATE                                                   
+470 SOVENGA                                                     
+207 SPRINGBOK                                                   
+125 SPRINGFONTEIN                                               
+984 SPRINGS                                                     
+1039 SPRUITVIEW                                                  
+811 ST CUTHBERT'S                                               
+776 ST FRANCIS BAY                                              
+276 ST LUCIA ESTUARY                                            
+311 ST WENDOLINS                                                
+357 STAFFORD'S POST                                             
+622 STANDERTON                                                  
+277 STANGER                                                     
+597 STEELPOORT                                                  
+598 STEILTES                                                    
+208 STEINKOPF                                                   
+656 STEKRIVIER                                                  
+240 STELLA                                                      
+1251 STELLENBOSCH                                                
+909 STERKSPRUIT                                                 
+910 STERKSTROOM                                                 
+911 STEYNSBURG                                                  
+32 STEYNSRUS                                                   
+777 STEYTLERVILLE                                               
+1161  STILBAAI                                                   
+166 STILFONTEIN                                                 
+1252 STRAND                                                      
+1253 STRANDFONTEIN                                               
+1080 STRUBENSVALLEI                                              
+989 STRUBENVALE                                                 
+860 STUTTERHEIM                                                 
+778 SUMMERSTRAND                                                
+706 SUN CITY                                                    
+679 SUNDRA                                                      
+278 SUNDUMBILI                                                  
+1083 SUNNINGHILL WEST                                            
+526 SUNNYSIDE                                                   
+779 SUNRIDGEPARK                                                
+1199 SUNVALLEY                                                   
+979 SUNWARD PARK                                                
+471 SUPERBIA                                                    
+1200 SURWELL                                                     
+209 SUTHERLAND                                                  
+654 SWARTKLIP                                                   
+780 SWARTKOPS                                                   
+167 SWARTRUGGENS                                                
+1162  SWELLENDAM                                                 
+963 SYMRIDGE                                                    
+812 TABANKULU                                                   
+1294 TABLEVIEW                                                   
+168 TAMPOSTAD                                                   
+861 TARKASTAD                                                   
+1130 TARLTON                                                     
+675 TASBET PARK                                                 
+241 TAUNG                                                       
+242 TAUNG STATION                                               
+862 TECOMA                                                      
+637 TEMBA                                                       
+1000 TEMBISA                                                     
+999 TEMBISA NORTH                                               
+1002 TEMBISA SOUTH                                               
+81 THABA NCHU                                                  
+527 THABATSHWANE                                                
+638 THABAZIMBI                                                  
+781 THE BRIDGE                                                  
+863 THE DUNCAN VILLAGE                                          
+782 THE FIG TREE                                                
+528 THE REEDS                                                   
+599 THE VILLAGE                                                 
+33 THERONVILLE                                                 
+82 THEUNISSEN                                                  
+562 THOHOYANDOU                                                 
+472 THOLONGWE                                                   
+1019 THREE RIVERS                                                
+600 THULAMAHASHE                                                
+614 THUTHUKANI                                                  
+707 TLHABANE                                                    
+243 TLHAKGAMENG                                                 
+1201 TOKAI                                                       
+1013 TOKOZA                                                      
+643 TOMBURKE                                                    
+399 TONGAAT                                                     
+244 TOSCA                                                       
+529 TOTUISDAL                                                   
+1254 TOUWSRIVIER (RPO)                                           
+628 TRICHARDT                                                   
+473 TRICHARDTSDAL                                               
+126 TROMPSBURG                                                  
+918 TROYEVILLE                                                  
+969 TSAKANE                                                     
+566 TSHAKHUMA                                                   
+548 TSHAULU                                                     
+1105 TSHIAWELO                                                   
+560 TSHIKONDENI                                                 
+556 TSHILWAVHUSIKU                                              
+530 TSHWANE SOUTH                                               
+726 TSITSING                                                    
+813 TSOLO                                                       
+864 TSOMO                                                       
+426 TUGELA FERRY                                                
+1295 TULBAGH                                                     
+915 TURFFONTEIN                                                 
+34 TWEELING                                                    
+35 TWEESPRUIT                                                  
+1296 TYGERVALLEI                                                 
+474 TZANEEN                                                     
+475 TZANENG MALL                                                
+814 UGIE                                                        
+783 UITENHAGE                                                   
+279 ULUNDI                                                      
+400 UMBILO                                                      
+312 UMBOGINTWINI                                                
+313 UMBUMBULU                                                   
+401 UMHLALI                                                     
+402 UMHLANGA GATEWAY                                            
+403 UMHLANGA ROCKS                                              
+314 UMKOMAAS                                                    
+315 UMLAZI                                                      
+815 UMTATA                                                      
+358 UMZIMKULU                                                   
+316 UMZINTO                                                     
+359 UNDERBERG                                                   
+1163  UNIONDALE                                                  
+531 UNISARAND                                                   
+816 UNITRA                                                      
+83 UNIVERSITAS                                                 
+784 UPE POST OFFICE                                             
+210 UPINGTON                                                    
+427 UTRECHT                                                     
+317 UVONGO                                                      
+169 VAAL REEF                                                   
+170 VAALPARK                                                    
+650 VAALWATER                                                   
+532 VALHALLA                                                    
+1202 VALYLAND                                                    
+1020 VANDERBIJLPARK                                              
+211 VANWYKSVLEI                                                 
+1297 VELDDRIF                                                    
+36 VENTERSBURG                                                 
+171 VENTERSDORP                                                 
+912 VENTERSTAD                                                  
+1014 VEREENIGING                                                 
+404 VERULAM                                                     
+1034 VERWOERDPARK                                                
+561 VHUFULI                                                     
+538 VHULAUDZI                                                   
+127 VICTORIA WEST                                               
+817 VIEDGESVILLE                                                
+172 VILJOENSKROON                                               
+37 VILLIERS                                                    
+1255 VILLIERSDORP                                                
+865 VINCENT                                                     
+84 VIRGINIA                                                    
+1203 VISHOEK                                                     
+1204 VLAEBERG                                                    
+740 VLAKDRIF                                                    
+619 VOLKSRUST                                                   
+545 VONGANI                                                     
+1087 VORNA VALLEY                                                
+980 VOSLOORUS                                                   
+38 VREDE                                                       
+173 VREDEFORT                                                   
+1298 VREDENBURG                                                  
+1299 VREDENDAL                                                   
+245 VRYBURG                                                     
+428 VRYHEID                                                     
+567 VUWANI                                                      
+1010 WADEVILLE                                                   
+621 WAKKERSTROOM                                                
+1043 WALKERVILLE                                                 
+785 WALMER                                                      
+318 WANDSBECK                                                   
+39 WARDEN                                                      
+639 WARMBAD                                                     
+128 WARRENTON                                                   
+360 WARTBURG                                                    
+429 WASBANK                                                     
+1205 WATERFRONT                                                  
+601 WATERVALBOVEN                                               
+430 WEENEN                                                      
+1300 WELGEMOED                                                   
+85 WELKOM                                                      
+1301 WELLINGTON                                                  
+1081 WELOBIE                                                     
+1054 WELTEVREDENPARK                                             
+86 WELTRIX                                                     
+1060 WENDYWOOD                                                   
+87 WEPENER                                                     
+1131 WES-KRUGERSDORP                                             
+246 WESSELSBRON                                                 
+602 WEST ACRES                                                  
+866 WEST BANK                                                   
+1133 WESTGATE                                                    
+1106 WESTONARIA                                                  
+1256 WESTRIDGE                                                   
+319 WESTVILLE                                                   
+867 WHITTLESEA                                                  
+1120 WIBSEY                                                      
+88 WIEGANDIA                                                   
+533 WIERDAPARK                                                  
+534 WIERDAPARK SOUTH                                            
+733 WILDEBEES SOUTH                                             
+1164 WILDERNESS                                                  
+212 WILLISTON                                                   
+913 WILLOWMORE                                                  
+89 WILLOWS                                                     
+361 WILLOWTON                                                   
+868 WILLOWVALE                                                  
+1134 WILROPARK                                                   
+40 WINBURG                                                     
+320 WINKLESPRUIT                                                
+431 WINTERTON                                                   
+724 WINTERVELDT                                                 
+671 WITBANK                                                     
+1121 WITBEECK                                                    
+981 WITFIELD                                                    
+734 WITGOUD                                                     
+603 WITRIVIER                                                   
+933 WITS                                                        
+41 WITSIESHOEK                                                 
+949 WITSPOS                                                     
+247 WOLMARANSSTAD                                               
+1302 WOLSELEY                                                    
+535 WONDERBOOMPOORT                                             
+729 WONDERKOP                                                   
+1206 WOODSTOCK                                                   
+1257 WORCESTER                                                   
+1207 WYNBERG                                                     
+604 XIMHUNGWE                                                   
+719 YA-RONA                                                     
+405 YELLOWWOOD PARK                                             
+947 YEOVILLE                                                    
+174 ZAMDELA                                                     
+90 ZASTRON                                                     
+175 ZEERUST                                                     
+406 ZIMBALI                                                     
+708 ZINNIAVILLE                                                 
+655 ZONDEREINDE                                                 
+176 ZUIPING                                                     
+1023 ZUURFONTEIN                                                 
+869 ZWELITSHA                                                   
+786 ZWIDE                                                       

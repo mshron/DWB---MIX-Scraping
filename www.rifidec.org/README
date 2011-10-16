@@ -1,0 +1,2 @@
+`urls.py` finds urls. `scrape.py` scrapes them.
+They are combined and connected to the scraperwiki API in `scraperwiki.py`.

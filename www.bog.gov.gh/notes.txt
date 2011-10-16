@@ -1,0 +1,1 @@
+hand-made with pdftotext and Emacs
