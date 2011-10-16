@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+"""
+Run this from bash on a directory
+containing files from the website.
+It will send a list of dicts to stdout.
+"""
+
 from lxml.html import fromstring
 from sys import argv
 from os import listdir
