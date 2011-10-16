@@ -1,6 +1,4 @@
 Country,Data Source: Organization Name,Data Source: Organization Name (group),Count,Number of Providers,Number of Branches,Number of Clients,Number of Loans,Number of Deposit Accounts,Gross Loan Portfolio,Total Assets,Total Deposits,GLP USD,Assets USD,Deposits USD,Country Level,Data Source Level,Data Source Group Level,Country Level,Data Source Level,Data Source Group Level,Country Level,Data Source Level,Data Source Group Level
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,Extent of Missing Data (0=No Missing Data),,,,,,,,,,,Extent of Missing Data,,,Average Missing Data Points                                                   (0=No Missing; 10=All Missing)                                                          High: 8-10; Medium: 4-7; Low: 0-3,,,Maximum Missing Data Points                                     (0=No Missing; 10=All Missing),,
 Angola,MIX,MIX,2,0,1,0,0,1,0,0,1,0,0,0,Medium,Low,Low,6.9355,3.6339,3.63393,10,10,10
 Angola,Microcapital,Research and news,1,0,1,0,0,1,1,1,1,0,1,1,Medium,Medium,Medium,6.9355,7,4.19298,10,7,7
 Angola,Banco Sol - AO,Self-reported,1,0,1,0,0,1,0,1,1,0,1,1,Medium,Medium,Medium,6.9355,6,5.3,10,6,6
