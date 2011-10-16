@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 from urllib2 import urlopen
 from lxml.html import fromstring
+#from lxml.etree import fromstring
 from lxml.etree import tostring
 
 URL='http://www.bancomoc.mz/Instituicoes_en.aspx?id=GINS0017&ling=en'
