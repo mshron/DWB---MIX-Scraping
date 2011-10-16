@@ -2,8 +2,9 @@ mix<-read.csv('Missing Data Coverage RR.csv') #[c(1:3,16:18)]
 mix$Data.Source.Level.1<-as.numeric(as.character(mix$Data.Source.Level.1))
 mix<-na.omit(mix)
 
-pdf('visualize.pdf',width=9,height=9)
-grey='#A0A0A0A0'
+#pdf('visualize.pdf',width=9,height=9)
+png('visualize.png',width=700,height=700)
+grey='#999999CC'
 par(
 	col=grey,
 	col.axis=grey,
@@ -19,7 +20,7 @@ par(
 #order(mix$Country.Level.1)
 #order(mix$Data.Source.Level.1)
 plot(Country.Level.1~Data.Source.Level.1,data=mix
- , bg=grey , col=0, pch=21, cex=sqrt(Count/10)
+ , bg=grey , col=0, pch=21, cex=sqrt(Count)
  , axes=F
  , main="Extent of missing data by country and data provider in Mix data" 
  , xlab="Data source (Down is low.)"
