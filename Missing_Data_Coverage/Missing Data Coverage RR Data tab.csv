@@ -1,0 +1,22 @@
+Analysis Summary:
+"For this analysis, I used the following two MIX datafiles:"
+(a) Landscape-integrated-extract-to-load.xlsx
+(b) data_source_groups.csv
+
+"In order to assess the extent of missing data, I created individual flags for whenever the following fields had a missing value in (1): "
+ (1) Number of branches 
+ (2) Number of clients 
+ (3) Number of loans 
+ (4) Number of deposit accounts 
+ (5) Gross Loan Portfolio 
+ (6) Total Assets 
+ (7) Total Deposits 
+ (8) GLP USD 
+ (9) Assets USD 
+ (10) Deposits USD 
+
+"After this, I summed up the 10 flags and then created low/medium/high buckets for missing data coverage on the:"
+Country level
+Data source (organization name) level
+Data source (organization group) level - to create this I merged (1) and (2) together by organization name
+
