@@ -3,10 +3,13 @@ from urllib2 import urlopen
 from lxml.html import fromstring
 #from lxml.etree import fromstring
 from lxml.etree import tostring
+import json
+import sys
 
 URL='http://www.bancomoc.mz/Instituicoes_en.aspx?id=GINS0017&ling=en'
 
 def main():
+  outfile = open(sys.argv[1], 'w')
   xml=get(URL)
   organizations=xml.xpath('//div[@class="column1-unit"]/h1/div/span/b/font')
   addresses=xml.xpath('//div[@class="column1-unit"]/h1/div/span/font')
@@ -18,7 +21,7 @@ def main():
       "organization":tostring(organizations.pop()).split('<br/>')[1]
     , "address":addresses.pop().text
     })
-  print rows
+  json.dump(rows, outfile)
 
 class AlignmentError(Exception):
   pass

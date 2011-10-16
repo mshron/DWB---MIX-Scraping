@@ -1,0 +1,9 @@
+http://www.rwandamicrofinance.org/
+
+http://www.rwandamicrofinance.org/index.php?option=com_sobi2&catid=7&Itemid=94&lang=en
+http://www.rwandamicrofinance.org/index.php?option=com_sobi2&catid=7&Itemid=123&lang=en&limitstart=10
+http://www.rwandamicrofinance.org/index.php?option=com_sobi2&catid=7&Itemid=94&lang=en&limitstart=20
+http://www.rwandamicrofinance.org/index.php?option=com_sobi2&catid=7&Itemid=123&lang=en&limitstart=30
+http://www.rwandamicrofinance.org/index.php?option=com_sobi2&catid=7&Itemid=94&lang=en&limitstart=40
+
+http://www.rwandamicrofinance.org/index.php?option=com_sobi2&catid=7&lang=en&limitstart=40

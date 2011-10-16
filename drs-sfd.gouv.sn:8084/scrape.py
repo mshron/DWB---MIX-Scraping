@@ -12,5 +12,6 @@ def get_departments(url):
 
 def each_page(row):
     value = row.attrs['value']
+    d = requests.get(
 
         
