@@ -11,8 +11,9 @@ def main():
     extra = sys.argv[3]
     for i,row in enumerate(d):
       row.update(geocode(row['address'] + extra))
+      d[i] = row
       time.sleep(.1)
-      if i == 0:
+      if i == 10:
           break
     json.dump(d, out)
     
