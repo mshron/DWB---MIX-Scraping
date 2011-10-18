@@ -23,8 +23,8 @@ plot(Country.Level.1~Data.Source.Level.1,data=mix
  , bg=grey, col=0, pch=21, cex=sqrt(Count)
  , axes=F
  , main="Extent of missing data by country and data provider in Mix data" 
- , xlab="Data source (Down is low.)"
- , ylab="Country (Left is low.)"
+ , xlab="Data source, ordered by completeness of data (Down indicates more missing data.)"
+ , ylab="Country, ordered by completeness of data (Down indicates more missing data.)"
  , sub="Circle areas correspond to the number of organizations reported"
 )
 axis(2,at=order(mix$Data.Source.Level.1),labels=mix$Data.Source..Organization.Name)
