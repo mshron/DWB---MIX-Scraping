@@ -3,17 +3,17 @@ mix$Data.Source.Level.1<-as.numeric(as.character(mix$Data.Source.Level.1))
 mix<-na.omit(mix)
 
 #pdf('visualize.pdf',width=9,height=9)
-png('visualize.png',width=700,height=700)
-grey='#999999CC'
+png('visualize.png',width=900,height=900)
+grey='#00000044'
 par(
-	col=grey,
-	col.axis=grey,
-	col.lab=grey,
-	col.main=grey,
-	col.sub=grey,
-	fg=grey
-#	mar=c(5,10,4,10), # increase y-axis margin
-#	par(las=2) # make label text perpendicular to axis
+  col=grey
+, col.axis=grey
+, col.lab=grey
+, col.main=grey
+, col.sub=grey
+, fg=grey
+#, mar=c(5,10,4,10) # increase y-axis margin
+, las=2 # make label text perpendicular to axis
 )
 
 #Order 
@@ -27,6 +27,10 @@ plot(Country.Level.1~Data.Source.Level.1,data=mix
  , ylab="Country, ordered by completeness of data (Down indicates more missing data.)"
  , sub="Circle areas correspond to the number of organizations reported"
 )
-axis(2,at=order(mix$Data.Source.Level.1),labels=mix$Data.Source..Organization.Name)
-axis(1,at=order(mix$Country.Level.1),labels=mix$Country)
+makeaxis <- function(side,missingness,orgnames){
+  axislabels<-aggregate(missingness,list(orgnames),unique)
+  axis(side,at=order(axislabels$x),labels=axislabels$Group.1)
+}
+makeaxis(1,mix$Data.Source.Level.1,mix$Data.Source..Organization.Name)
+makeaxis(2,mix$Country.Level.1,mix$Country)
 dev.off()
