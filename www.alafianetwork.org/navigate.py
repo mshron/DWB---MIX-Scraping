@@ -9,9 +9,14 @@ def save(unique,data,name):
 
 BASEURL='http://www.alafianetwork.org/repimf.php?page='
 
+def main():
+  for p in [0]: #range(0,lastpage()+1):
+    xml=getpage(p)
+    print xml.xpath('//p')
+
 def lastpage():
   xml=getpage(0)
-  print xml
+  return int(xml.xpath('//center/a')[-2].text)
 
 def get(url):
   return fromstring(urlopen(url).read())
@@ -22,4 +27,4 @@ def get_file(url):
 def getpage(number):
   return get_file(BASEURL+str(number))
 
-lastpage()
+main()
