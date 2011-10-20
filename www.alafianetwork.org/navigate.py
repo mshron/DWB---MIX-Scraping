@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 from urllib2 import urlopen
 from lxml.html import fromstring
+from lxml.etree import tostring
 
 #from scraperwiki.sqlite import save
 def save(unique,data,name):
@@ -10,12 +11,14 @@ def save(unique,data,name):
 BASEURL='http://www.alafianetwork.org/repimf.php?page='
 
 def main():
-  for p in [0]: #range(0,lastpage()+1):
+  for page in [0]: #range(0,lastpage()+1):
+    xml=getpage(page)
+    p=xml.xpath('//p[font/strong]')[0]
     d={
-      "page":p
-    , "html":getpage(p,xml=False)
+      "page":page
+    , "table":tostring(table)
     }
-    save(['p'],d,'html')
+    save(['page'],d,'html')
 
 def lastpage():
   xml=getpage(0)
