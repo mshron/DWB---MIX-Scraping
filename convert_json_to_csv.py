@@ -14,7 +14,8 @@ def main():
     csvout = csv.writer(open(outfile,'w')) 
     csvout.writerow(list(cols)) 
     for row in jdata:
-        csvout.writerow([row[c].encode('utf-8') for c in cols])
+        d = [row.get(c,'').encode('utf-8') for c in cols]
+        csvout.writerow(d)
     return
 
 if __name__ == "__main__":

@@ -5,7 +5,7 @@ import json
 import cloud
 
 def main():
-    cloud.setkey(1816, '3ea85e4bd2342a42db5d82896290bb73242e199b')
+    cloud.setkey(#NEEDS ID, KEY)
     d = json.load(open(sys.argv[1]))
     out = open(sys.argv[2],'w')
     jids = []
