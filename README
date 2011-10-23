@@ -2,6 +2,8 @@ This is the collection of scrapers for the Microfinance Information eXchange dur
 
 By default, all of the scrapers put out JSON (to help keep the data structued and easy to work with programmatically). There is a program called convert_json_to_csv.py in this directory which can be used to create columnar output as needed.
 
+There is also a rudimentary geocoder in geocode/geocode_json.py. It may or may not have issues with non-ASCII characters, but this is certainly fixable.
+
 Status:
 
 - www.amfikenya.com - Finished
