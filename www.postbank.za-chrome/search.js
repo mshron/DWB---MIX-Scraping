@@ -13,23 +13,16 @@ chainsaw={
       callback();
     }
   }
-, "parse":function(){
-    branch_nodes=$('select[name="Centralcolum3$drpFAQ"] option');
-    var branches={}
-    branch_nodes.each(function(){
-      var branch_id=$(this).attr('value');
-      var branch_name=$(this).text();
-      branches[branch_id]=branch_name;
-//      console.log([branch_id,branch_name]);
-    });
-//    console.log(branches);
-    $('select[name="Centralcolum3$drpFAQ"]').val('333');
-    $('#Centralcolum3_btnSubmit').click();
-  }
-, "scrape":function(callback){
+, "grab":function(){
+    selected=$('select[name="Centralcolum3$drpFAQ"] option:selected');
+    next_val=selected.next().val();
+    if (next_val!="Please select..."){
+      $('select[name="Centralcolum3$drpFAQ"]').val(next_val);
+      $('#Centralcolum3_btnSubmit').click();
+    }
   }
 }
 
 jQuery(function(){
-  chainsaw.parse();
+  chainsaw.grab();
 });
