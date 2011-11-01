@@ -1,8 +1,24 @@
 This is the collection of scrapers for the Microfinance Information eXchange during the Data Without Borders Data Dive.
 
-Add to this list as things get finished:
+By default, all of the scrapers put out JSON (to help keep the data structued and easy to work with programmatically). There is a program called convert_json_to_csv.py in this directory which can be used to create columnar output as needed.
 
-- www.amfikenya.com 
-- www.sasra.go.ke
-- www.ncr.org.za
-- www.rwandamicrofinance.org
+There is also a rudimentary geocoder in geocode/geocode_json.py. It may or may not have issues with non-ASCII characters, but this is certainly fixable.
+
+Status:
+
+- www.amfikenya.com - Finished
+- www.sasra.go.ke - Finished
+- www.ncr.org.za - Geocoder tested on part of the data (some encoding errors). Otherwise finished.
+- www.rwandamicrofinance.org - Finished
+- www.bancomoc.mz - Finished, but some special characters are incorrectly encoded
+- www.bnr.rw - Finished
+- www.bog.gov.gh - Finished, but not very informatively formatted
+- www.cuagh.com - Finished
+- www.rifidec.org - Finished, on ScraperWiki (https://scraperwiki.com/scrapers/rifidec/)
+
+- www.alafianetwork.org - Mostly finished (usable) on ScraperWiki (https://scraperwiki.com/scrapers/alafia_network_parse/)
+
+- drs-sfd.gouv.sn:8083 - Senegalese finance ministry (full data dump, halfway parsed?)
+
+- drs-sfd.gouv.sn:8084 - Began
+- www.postbank.za - Resisted, so far. Doing something crazy with the requests.
