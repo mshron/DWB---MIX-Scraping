@@ -1,0 +1,21 @@
+{
+  "name": "Postbank scraper",
+  "version": "0.1",
+  "description": "Scrape information from the Postbank site.",
+  "content_scripts": [
+    {
+      "matches": ["http://www.postbank.co.za/contact.aspx?ID=3"],
+      "js": [
+        "jquery-1.6.4.min.js"
+      , "search.js"
+      ]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "icon.png"
+  , "popup": "start.html"
+  },
+  "permissions": [
+    "http://chainsaw.iriscouch.com/"
+  ]
+}
