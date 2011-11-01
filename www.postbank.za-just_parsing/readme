@@ -1,0 +1,7 @@
+Because of the bizarre issues we've run into for the
+automated scraping, I instead propose downloading
+the pages with a full web browser (perhaps with a script)
+and then parsing them with a separate program.
+
+This directory contains a program to parse the
+downloaded pages.
