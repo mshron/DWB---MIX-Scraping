@@ -1,0 +1,10 @@
+{
+   "_id": "_design/clean",
+   "_rev": "3-024f574be41c780384f841b1203e0123",
+   "language": "javascript",
+   "views": {
+       "all": {
+           "map": "function(doc) { out={}; for (key in doc) { if (!(key in {'_id':1,'_rev':1})){out[key]=doc[key].replace(/[ ][ ]+/,'').replace(/[ ]+$/,'').replace(/^[ ]+/,'') }} emit(out); }"
+       }
+   }
+}
