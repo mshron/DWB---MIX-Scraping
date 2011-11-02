@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 '''Does what the title says. %{progname} jsonfile csvoutfile'''
 
 import json
