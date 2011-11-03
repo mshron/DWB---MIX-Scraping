@@ -33,10 +33,13 @@ def parse(f):
   xml=fromstring(raw)
   for tag in xml.xpath('//tr[@class="space"]'):
     xml.remove(tag)
-  for tag in xml.xpath('/table[@class="sous-tableau"]'):
-    xml.remove(tag)
+  for tag in xml.xpath('//td[table[@class="sous-tableau"]]'):
+    tag.text="sous-tableau"
 
-  cells=xml.xpath('//*[self::th or self::td]')
+  cells=[]
+  tables=xml.xpath('//div[@class="bloc"]/div/table')[0:3]
+  for table in tables:
+    cells.extend(table.xpath('tr/*[self::th or self::td]'))
 
   #Check for even-ness
   if (len(cells) % 2) != 0:
