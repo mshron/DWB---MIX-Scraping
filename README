@@ -21,4 +21,4 @@ Status:
 - drs-sfd.gouv.sn:8083 - Senegalese finance ministry (full data dump, halfway parsed?)
 
 - drs-sfd.gouv.sn:8084 - Began
-- www.postbank.za - Resisted, so far. Doing something crazy with the requests.
+- www.postbank.za - Finished
