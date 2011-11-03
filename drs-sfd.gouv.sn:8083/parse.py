@@ -8,11 +8,20 @@ It will send a list of dicts to stdout.
 from lxml.html import fromstring
 from sys import argv
 from os import listdir
+#from demjson import encode
+from json import dumps as encode
 
 def main():
   datadir=argv[1]
+  out=argv[2]
+  rows=[]
   for f in listdir(datadir):
-    print parse(datadir+'/'+f)
+    row=parse(datadir+'/'+f)
+    rows.append(row)
+  json=encode(rows)
+  o=open(out,'w')
+  o.write(json)
+  o.close()
 
 def parse(f):
   """Parse a previously downloaded html file"""
@@ -39,7 +48,16 @@ def parse(f):
   while len(cells)>1:
     key=cells.pop().text
     value=cells.pop().text
-    d[key]=value
+    #Catch keys that aren't really keys
+    if key==None:
+      pass
+    else:
+      for ws in ('\r','\n','\u00a0'):
+        key=key.replace(ws,'')
+      if ''!=key and " "!=key[0] and (key not in ('?','NULL')):
+        key=key.encode('ascii','replace')
+        print key
+        d[key]=value
 
   return d
 
