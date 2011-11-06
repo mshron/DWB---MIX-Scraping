@@ -27,6 +27,33 @@ def main():
   o.close()
 
 
+def treeify(xml):
+  blocs=xml.xpath('//div[@class="bloc"]')
+  for bloc in blocs:
+    bloc_key=bloc.xml('h3[@class="detail-title"]/text()')[0]
+    bloc_child=bloc.xml('div/table')
+    for tr in bloc_child.xpath('tr')
+      if not has_subtable(tr):
+        for th in tr.xpath('th')
+          key=th.text
+          value=th.getnext().text
+          #Then write the dict
+      else:
+        subtable=get_subtable(tr)
+
+
+def has_subtable(tr):
+  return len(_get_subtables(tr))==1:
+
+def get_subtable(tr):
+  return _get_subtables(tr)[0]
+
+def _get_subtables(tr):
+  subtables=tr.xpath('tr[colspan="4"]/table[@class="sous-tableau"]')
+  return subtables
+
+
+
 def location(xml):
   ths=xml.xpath('//div[@class="detail detail-1"]/table/tr/th')
   d={}
