@@ -19,25 +19,24 @@ def main():
   out=argv[2]
   rows=[]
   for f in listdir(datadir):
-    row=parse(datadir+'/'+f,localisation)
+    row=parse(datadir+'/'+f)
     rows.append(row)
   json=encode(rows)
   o=open(out,'w')
   o.write(json)
   o.close()
 
-
 def treeify(xml):
   bloc_nodes=xml.xpath('//div[@class="bloc"]')
   blocs=[]
 
   for bloc in bloc_nodes:
-    bloc_key=bloc.xml('h3[@class="detail-title"]/text()')[0]
-    child=bloc.xml('div/table')
-    for tr in bloc_child.xpath('tr')
+    bloc_key=bloc.xpath('h3[@class="detail-title"]/text()')[0]
+    child=bloc.xpath('div/table')[0]
+    for tr in child.xpath('tr'):
       if not has_subtable(tr):
         bloc_l1={}
-        for th in tr.xpath('th')
+        for th in tr.xpath('th'):
           key=th.text
           value=th.getnext().text
           bloc_l1[key]=value
@@ -62,7 +61,7 @@ def detable(subtable):
   return row_list
 
 def has_subtable(tr):
-  return len(_get_subtables(tr))==1:
+  return len(_get_subtables(tr))==1
 
 def get_subtable(tr):
   return _get_subtables(tr)[0]
@@ -85,26 +84,6 @@ def location(xml):
   return d
 
 
-def conditionalities(xml):
-  """This table is actually a decently structured tree;
-  you get the bizarre single-column rows if you have grouped (nested)
-  information. I could parse this systematically. Do that."""
-  cond=xml.xpath('//div[@class="detail detail-2"]/table')
-  return cond
-
-def financial_sectors(cond):
-  ths=cont.xpath('tr/td[@colspan="4"]/table[@class="sous-tableau"]/tr/th')
-  d={}
-  for th in ths:
-    td_query=th.getparent().getnext().xpath('td')
-    if 1==len(td_query):
-      td=td_query[0]
-    else:
-      raise AlignmentError
-    d.update({th.text:td.text})
-  return d
-  
-
 def check_evenness(nodes):
   """Check for even-ness."""
   if (len(nodes) % 2) != 0:
@@ -117,7 +96,7 @@ def clean_text(text):
     text=text.encode('ascii','replace')
   return text
 
-def parse(f,get_node_list):
+def parse(f):
   """Parse a previously downloaded html file"""
   #print f
   handle=open(f,'r')
@@ -125,8 +104,7 @@ def parse(f,get_node_list):
   handle.close()
 
   xml=fromstring(raw)
-  d=get_node_list(xml)
-  return d
+  return treeify(xml)
 
 class AlignmentError(Exception):
   pass
