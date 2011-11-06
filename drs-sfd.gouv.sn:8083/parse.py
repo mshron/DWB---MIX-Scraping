@@ -47,7 +47,7 @@ def treeify(xml):
         
     bloc_l0={bloc_key:bloc_l1}
     blocs.append(bloc_l0)
-    return blocs
+  return blocs
 
 def detable(subtable):
   colnames=subtable.xpath('tr[position()=1]/th/text()')
@@ -72,16 +72,6 @@ def get_subtable_key(tr):
 def _get_subtables(tr):
   subtables=tr.xpath('tr[colspan="4"]/table[@class="sous-tableau"]')
   return subtables
-
-
-
-def location(xml):
-  ths=xml.xpath('//div[@class="detail detail-1"]/table/tr/th')
-  d={}
-  for th in ths:
-    td=th.getnext()
-    d.update({th.text:td.text})
-  return d
 
 
 def check_evenness(nodes):
