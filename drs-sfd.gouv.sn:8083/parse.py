@@ -11,57 +11,51 @@ from os import listdir
 #from demjson import encode
 from json import dumps as encode
 
+def save(unique,data,name):
+  print(unique,data,name)
+
 def main():
   datadir=argv[1]
   out=argv[2]
   rows=[]
   for f in listdir(datadir):
-    row=parse(datadir+'/'+f)
+    row=parse(datadir+'/'+f,localisation)
     rows.append(row)
   json=encode(rows)
   o=open(out,'w')
   o.write(json)
   o.close()
 
-def parse(f):
+
+def localisation(xml):
+  ths=xml.xpath('//div[@class="detail detail-1"]/table/tr/th')
+  d={}
+  for th in ths:
+    td=th.getnext()
+    d.update({th.text:td.text})
+  return d
+
+def check_evenness(nodes):
+  """Check for even-ness."""
+  if (len(nodes) % 2) != 0:
+    raise AlignmentError
+
+def clean_text(text):
+  for ws in ('\r','\n','\u00a0'):
+    text=text.replace(ws,'')
+  if ''!=key and " "!=key[0] and (key not in ('?','NULL')):
+    text=text.encode('ascii','replace')
+  return text
+
+def parse(f,get_node_list):
   """Parse a previously downloaded html file"""
-  print f
+  #print f
   handle=open(f,'r')
   raw=handle.read()
   handle.close()
 
   xml=fromstring(raw)
-  for tag in xml.xpath('//tr[@class="space"]'):
-    xml.remove(tag)
-  for tag in xml.xpath('//td[table[@class="sous-tableau"]]'):
-    tag.text="sous-tableau"
-
-  cells=[]
-  tables=xml.xpath('//div[@class="bloc"]/div/table')[0:3]
-  for table in tables:
-    cells.extend(table.xpath('tr/*[self::th or self::td]'))
-
-  #Check for even-ness
-  if (len(cells) % 2) != 0:
-#    raise AlignmentError
-    pass
-
-  d={}
-  #while len(cells)>0:
-  while len(cells)>1:
-    key=cells.pop().text
-    value=cells.pop().text
-    #Catch keys that aren't really keys
-    if key==None:
-      pass
-    else:
-      for ws in ('\r','\n','\u00a0'):
-        key=key.replace(ws,'')
-      if ''!=key and " "!=key[0] and (key not in ('?','NULL')):
-        key=key.encode('ascii','replace')
-        print key
-        d[key]=value
-
+  d=get_node_list(xml)
   return d
 
 class AlignmentError(Exception):
