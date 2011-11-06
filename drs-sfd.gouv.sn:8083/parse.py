@@ -37,6 +37,9 @@ def location(xml):
 
 
 def conditionalities(xml):
+  """This table is actually a decently structured tree;
+  you get the bizarre single-column rows if you have grouped (nested)
+  information. I could parse this systematically. Do that."""
   cond=xml.xpath('//div[@class="detail detail-2"]/table')
   return cond
 
