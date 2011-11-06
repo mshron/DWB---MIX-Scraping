@@ -28,25 +28,47 @@ def main():
 
 
 def treeify(xml):
-  blocs=xml.xpath('//div[@class="bloc"]')
-  for bloc in blocs:
+  bloc_nodes=xml.xpath('//div[@class="bloc"]')
+  blocs=[]
+
+  for bloc in bloc_nodes:
     bloc_key=bloc.xml('h3[@class="detail-title"]/text()')[0]
-    bloc_child=bloc.xml('div/table')
+    child=bloc.xml('div/table')
     for tr in bloc_child.xpath('tr')
       if not has_subtable(tr):
+        bloc_l1={}
         for th in tr.xpath('th')
           key=th.text
           value=th.getnext().text
-          #Then write the dict
+          bloc_l1[key]=value
       else:
         subtable=get_subtable(tr)
+        key=get_subtable_key(tr)
+        bloc_l1[key]=detable(subtable)
+        
+    bloc_l0={bloc_key:bloc_l1}
+    blocs.append(bloc_l0)
+    return blocs
 
+def detable(subtable):
+  colnames=subtable.xpath('tr[position()=1]/th/text()')
+  row_nodes=subtable.xpath('tr[position()>1]')
+  row_list=[]
+  for row in row_nodes:
+    d_row={}
+    for key,value in zip(colnames,row.xpath('td/text()')):
+      d_row[key]=value
+    row_list.append(d_row)
+  return row_list
 
 def has_subtable(tr):
   return len(_get_subtables(tr))==1:
 
 def get_subtable(tr):
   return _get_subtables(tr)[0]
+
+def get_subtable_key(tr):
+  return tr.xpath('th[position()=1]/text()')[0]
 
 def _get_subtables(tr):
   subtables=tr.xpath('tr[colspan="4"]/table[@class="sous-tableau"]')
