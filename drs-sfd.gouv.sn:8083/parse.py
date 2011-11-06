@@ -11,6 +11,8 @@ from os import listdir
 #from demjson import encode
 from json import dumps as encode
 
+SKIPPED_KEYS=(u'Statistiques',u'Indicateurs',u'Rapports annuels')
+
 def save(unique,data,name):
   print(unique,data,name)
 
@@ -32,6 +34,9 @@ def treeify(xml):
 
   for bloc in bloc_nodes:
     bloc_key=bloc.xpath('h3[@class="detail-title"]/text()')[0]
+    #Skip the links at the end
+    if bloc_key in SKIPPED_KEYS:
+      continue
     child=bloc.xpath('div/table')[0]
     for tr in child.xpath('tr'):
       if not has_subtable(tr):
