@@ -27,13 +27,31 @@ def main():
   o.close()
 
 
-def localisation(xml):
+def location(xml):
   ths=xml.xpath('//div[@class="detail detail-1"]/table/tr/th')
   d={}
   for th in ths:
     td=th.getnext()
     d.update({th.text:td.text})
   return d
+
+
+def conditionalities(xml):
+  cond=xml.xpath('//div[@class="detail detail-2"]/table')
+  return cond
+
+def financial_sectors(cond):
+  ths=cont.xpath('tr/td[@colspan="4"]/table[@class="sous-tableau"]/tr/th')
+  d={}
+  for th in ths:
+    td_query=th.getparent().getnext().xpath('td')
+    if 1==len(td_query):
+      td=td_query[0]
+    else:
+      raise AlignmentError
+    d.update({th.text:td.text})
+  return d
+  
 
 def check_evenness(nodes):
   """Check for even-ness."""
