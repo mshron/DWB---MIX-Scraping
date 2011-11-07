@@ -13,7 +13,7 @@ def getKind(td, label, replace=""):
     except IndexError:
         return ''
 
-def eachpage(url):
+def eachpage(url, kind):
     _d = requests.get(base+url)
     d = BeautifulSoup.BeautifulSoup(_d.content)
     result = []
@@ -27,7 +27,7 @@ def eachpage(url):
             'sobi2Listing_field_contact_person').replace('Contact Person:','')
         out['phone'] = getKind(td,
             'sobi2Listing_field_phone').replace('Phone:','')
-        out['type'] = 'MFI'
+        out['type'] = kind
         result.append(out)
         
     n = d.findAll('a', attrs={'title':'Next'})
@@ -38,14 +38,16 @@ def eachpage(url):
     return result,n
 
 def main():
-    start = 'index.php?option=com_sobi2&catid=7&Itemid=94&lang=en'
-    outfile = open('rwandamicrofinance.json','w')
     out = []
-    result, n = eachpage(start)
-    out.extend(result)
-    while n!=None:
-        result,n = eachpage(n)
+    kinds = {'7': 'MFI', '8': 'Unions', '9': 'SARL', '10': 'SA'}
+    for k,v in kinds.iteritems():
+        start = 'index.php?option=com_sobi2&catid=%s&Itemid=94&lang=en'%k
+        outfile = open('rwandamicrofinance.json','w')
+        result, n = eachpage(start, v)
         out.extend(result)
+        while n!=None:
+            result,n = eachpage(n, v)
+            out.extend(result)
     json.dump(out, outfile)
 
 if __name__ == "__main__":
