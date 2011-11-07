@@ -9,6 +9,7 @@ def main():
   tree=loads(raw)
   for row in tree:
     page_id=row.pop(0)
+    print page_id
     for blob in row:
       #Handle nested elements
       for key in blob.keys():
@@ -31,7 +32,7 @@ def main():
 class UnexpectedChildrenCount(Exception):
   pass
 
-def save_with_id(unique,data,name,page_id,unique_id=True):
+def save_with_id(unique,data,name,page_id,unique_id=False):
   if type(data)==type({}):
     data['page_id']=page_id
   elif type(data)==type([]):
@@ -40,7 +41,7 @@ def save_with_id(unique,data,name,page_id,unique_id=True):
   else:
     raise TypeError
   if unique_id:
-    unique.extend('id')
+    unique.append('page_id')
   save(unique,data,name)
 
 def save(unique,data,name):
