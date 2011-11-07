@@ -17,7 +17,7 @@ def eachpage(url, kind):
     _d = requests.get(base+url)
     d = BeautifulSoup.BeautifulSoup(_d.content)
     result = []
-    for td in d.findAll('td',attrs={'style':"width: 50%; background-image: url(http://www.rwandamicrofinance.org/components/com_sobi2/images/backgrounds/green.gif);border-style: solid; border-color: #808080"}):
+    for td in d.findAll('td', attrs={'style': re.compile('.*green.gif.*')}):
         out = {}
         out['name'] = td.findAll('p')[0].text
         out['place'] = getKind(td, 'sobi2Listing_field_place')
@@ -39,10 +39,10 @@ def eachpage(url, kind):
 
 def main():
     out = []
-    kinds = {'7': 'MFI', '8': 'Unions', '9': 'SARL', '10': 'SA'}
-    for k,v in kinds.iteritems():
-        start = 'index.php?option=com_sobi2&catid=%s&Itemid=94&lang=en'%k
-        outfile = open('rwandamicrofinance.json','w')
+    outfile = open('rwandamicrofinance.json','w')
+    kinds = {('7','123'): 'MFI', ('8','124'): 'Unions', ('9','125'): 'SARL', ('10','126'): 'SA'}
+    for (k1,k2),v in kinds.iteritems():
+        start = 'index.php?option=com_sobi2&catid=%s&Itemid=%s&lang=en'%(k1,k2)
         result, n = eachpage(start, v)
         out.extend(result)
         while n!=None:
