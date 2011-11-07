@@ -25,9 +25,9 @@ def main():
   o.write(json)
   o.close()
 
-def treeify(xml):
+def treeify(xml,page_id):
   bloc_nodes=xml.xpath('//div[@class="bloc"]')
-  blocs=[]
+  blocs=[page_id]
 
   for bloc in bloc_nodes:
     bloc_key=bloc.xpath('h3[@class="detail-title"]/text()')[0]
@@ -96,7 +96,7 @@ def parse(f):
   handle.close()
 
   xml=fromstring(raw)
-  return treeify(xml)
+  return treeify(xml,f)
 
 class AlignmentError(Exception):
   pass
