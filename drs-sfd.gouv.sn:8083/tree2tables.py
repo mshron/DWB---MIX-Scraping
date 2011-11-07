@@ -1,6 +1,8 @@
 #!/usr/bin/env python
-from json import loads
+from json import loads,dumps
 from sys import argv
+
+tables={}
 
 def main():
   h=open(argv[1],'r')
@@ -9,7 +11,7 @@ def main():
   tree=loads(raw)
   for row in tree:
     page_id=row.pop(0)
-    print page_id
+    #print page_id
     for blob in row:
       #Handle nested elements
       for key in blob.keys():
@@ -28,6 +30,8 @@ def main():
         raise UnexpectedChildrenCount
       else:
         save_with_id([],blob.values()[0],blob.keys()[0],page_id)
+  print tables
+  write_tables()
  
 class UnexpectedChildrenCount(Exception):
   pass
@@ -45,8 +49,24 @@ def save_with_id(unique,data,name,page_id,unique_id=False):
   save(unique,data,name)
 
 def save(unique,data,name):
-  print(unique,data,name)
-  #pass
+  #print(unique,data,name)
+  if not name in tables.keys():
+    table=tables[name]
+    table=[]
+  if type(data)==type([]):
+    table.extend(data)
+  elif type(data)==type({}):
+    table.append(data)
+
+def write_tables():
+  for key in tables.keys():
+    table=tables[key]
+    if table!=[]:
+      print table
+      #json=dumps(table)
+      #out=open('tables/'+key+'.json','w')
+      #out.write(json)
+      #out.close()
 
 def tableize(row):
 #  if
