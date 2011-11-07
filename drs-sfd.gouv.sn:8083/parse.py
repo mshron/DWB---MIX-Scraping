@@ -46,6 +46,7 @@ def treeify(xml):
           value=th.getnext().text
           bloc_l1[key]=value
       else:
+        print "Sub-table"
         subtable=get_subtable(tr)
         key=get_subtable_key(tr)
         bloc_l1[key]=detable(subtable)
@@ -75,7 +76,7 @@ def get_subtable_key(tr):
   return tr.xpath('th[position()=1]/text()')[0]
 
 def _get_subtables(tr):
-  subtables=tr.xpath('tr[colspan="4"]/table[@class="sous-tableau"]')
+  subtables=tr.xpath('td[@colspan="4"]/table[@class="sous-tableau"]')
   return subtables
 
 
