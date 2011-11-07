@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from json import loads,dumps
+#from demjson import encode as dumps
 from sys import argv
 
 tables={}
@@ -26,11 +27,10 @@ def main():
           pass
       #Handle non-nested elements
       if len(blob.keys())!=1:
-        print len(blob.keys())
+        #print len(blob.keys())
         raise UnexpectedChildrenCount
       else:
         save_with_id([],blob.values()[0],blob.keys()[0],page_id)
-  print tables
   write_tables()
  
 class UnexpectedChildrenCount(Exception):
@@ -51,8 +51,10 @@ def save_with_id(unique,data,name,page_id,unique_id=False):
 def save(unique,data,name):
   #print(unique,data,name)
   if not name in tables.keys():
-    table=tables[name]
-    table=[]
+    tables[name]=[]
+
+  table=tables[name]
+
   if type(data)==type([]):
     table.extend(data)
   elif type(data)==type({}):
@@ -61,12 +63,13 @@ def save(unique,data,name):
 def write_tables():
   for key in tables.keys():
     table=tables[key]
+    #print table
     if table!=[]:
-      print table
-      #json=dumps(table)
-      #out=open('tables/'+key+'.json','w')
-      #out.write(json)
-      #out.close()
+      json=dumps(table)
+      cleankey=key.encode('ascii','ignore').replace(' ','').replace(':','')
+      out=open('tables/'+cleankey+'.json','w')
+      out.write(json)
+      out.close()
 
 def tableize(row):
 #  if
