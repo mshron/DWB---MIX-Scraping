@@ -13,9 +13,6 @@ from json import dumps as encode
 
 SKIPPED_KEYS=(u'Statistiques',u'Indicateurs',u'Rapports annuels')
 
-def save(unique,data,name):
-  print(unique,data,name)
-
 def main():
   datadir=argv[1]
   out=argv[2]
@@ -46,7 +43,6 @@ def treeify(xml):
           value=th.getnext().text
           bloc_l1[key]=value
       else:
-        print "Sub-table"
         subtable=get_subtable(tr)
         key=get_subtable_key(tr)
         bloc_l1[key]=detable(subtable)
